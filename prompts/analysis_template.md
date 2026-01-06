@@ -1,4 +1,4 @@
-**ICT (All Learnings) — discretionary analysis ONLY**
+**ICT 2022 Mentorship ONLY — discretionary analysis**
 
 **HTF Narrative (D + H1 + M15)**
 - Dealing range:
