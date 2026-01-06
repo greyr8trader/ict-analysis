@@ -1,6 +1,6 @@
 **{SYMBOL} — ICT 2022 Daily Plan ({DATE})**
 
-**HTF (1H) Narrative**
+**HTF Narrative (D + H1 + M15)**
 - Dealing range:
 - Bias (bullish/bearish) + why:
 
