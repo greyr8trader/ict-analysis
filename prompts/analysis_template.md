@@ -1,4 +1,4 @@
-**{SYMBOL} — ICT 2022 Daily Plan ({DATE})**
+**ICT (All Learnings) — discretionary analysis ONLY**
 
 **HTF Narrative (D + H1 + M15)**
 - Dealing range:
