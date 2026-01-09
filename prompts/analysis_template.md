@@ -22,13 +22,5 @@ Invalidation
 - Bias invalidates if:
 
 Key Levels (Max 10 — No PD Arrays)
-Price | Label \n
-Price | Label
-Price | Label
-Price | Label
-Price | Label
-Price | Label
-Price | Label
-Price | Label
 Price | Label
 Price | Label
