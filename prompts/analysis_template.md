@@ -3,6 +3,7 @@ ICT 2022 Mentorship — Discretionary Analysis ONLY
 HTF Narrative (D + H1 + M15)
 - Dealing range:
 - Bias (bullish/bearish) + why:
+- M15 validation (pass/fail) + why:
 
 Liquidity
 - Sell-side liquidity (SSL) targets:
