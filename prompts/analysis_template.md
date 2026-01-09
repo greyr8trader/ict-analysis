@@ -22,5 +22,8 @@ Invalidation
 - Bias invalidates if:
 
 Key Levels (Max 10 — No PD Arrays)
-Price | Label
-Price | Label
+Price | Dealing Range High
+Price | Dealing Range Low
+Price | Equilibrium
+Price | Equal Highs (BSL)
+Price | Equal Lows (SSL)
