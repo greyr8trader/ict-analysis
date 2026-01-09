@@ -21,3 +21,4 @@ TELEGRAM OUTPUT FORMAT (hard rule):
 - Use bullet points only (no long paragraphs).
 - Use an algorithmic, rule-based style: short "IF → THEN" steps and checklists.
 - Keep each bullet ≤ 1–2 lines. Prefer compact phrasing.
+- Put also 10 key levels at the bottom. Do not include PD Arrays
