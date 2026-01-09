@@ -1,25 +1,34 @@
-**ICT 2022 Mentorship ONLY — discretionary analysis**
+ICT 2022 Mentorship — Discretionary Analysis ONLY
 
-**HTF Narrative (D + H1 + M15)**
+HTF Narrative (D + H1 + M15)
 - Dealing range:
 - Bias (bullish/bearish) + why:
 
-**Liquidity**
+Liquidity
 - Sell-side liquidity (SSL) targets:
 - Buy-side liquidity (BSL) targets:
 
-**PD Arrays (FVG / OB / IFVG)**
-- Key FVGs/OBs (levels or descriptions):
-
-**Killzone Plan**
+Killzone Plan
 - London:
 - New York:
 
-**5M Execution Model**
+5M Execution Model
 - What I need to see (MSS / displacement / FVG entry):
 - Entry idea:
 - Targets:
 - Stops:
 
-**Invalidation**
+Invalidation
 - Bias invalidates if:
+
+Key Levels (Max 10 — No PD Arrays)
+Price | Label
+Price | Label
+Price | Label
+Price | Label
+Price | Label
+Price | Label
+Price | Label
+Price | Label
+Price | Label
+Price | Label
