@@ -23,3 +23,15 @@
 - An intraday MSS MUST occur after liquidity is taken.
 - Without an MSS, no trade is valid, even if liquidity is present.
 - Traders MUST wait for a clear violation of a short-term swing; assumptions are INVALID.
+
+## Displacement Quality (MSS Validation)
+
+- Displacement MUST be fast, energetic, and obvious.
+- Weak or lethargic movement is NOT valid displacement.
+- A strong close beyond the violated level increases significance.
+
+## MSS Range Logic (Where to Hunt FVGs)
+
+- After a liquidity raid and MSS, the range between the displacement HIGH and displacement LOW
+  MUST be used as the hunting ground for valid FVGs.
+- If no valid FVG exists in the displacement range, NO trade is permitted.
