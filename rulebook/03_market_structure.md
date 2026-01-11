@@ -18,3 +18,8 @@
 - An MSS is valid ONLY AFTER liquidity has been taken.
 - A candle DOES NOT need to close beyond a level to confirm an intraday MSS.
 - MSS significance depends entirely on prior liquidity interaction.
+
+## MSS Preconditions
+- An intraday MSS MUST occur after liquidity is taken.
+- Without an MSS, no trade is valid, even if liquidity is present.
+- Traders MUST wait for a clear violation of a short-term swing; assumptions are INVALID.
