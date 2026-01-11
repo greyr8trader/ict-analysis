@@ -37,3 +37,13 @@
 - Anticipating MSS before it occurs.
 - Expecting identical repetitions of past examples.
 - Measuring success by range captured instead of rule compliance.
+
+## Time & Session Errors
+
+- Trading during the New York lunch window (12:00 PM – 1:00 PM NY time).
+- Attempting to trade too frequently instead of waiting for the session’s primary move.
+
+## Model Violations
+
+- Adding extra patterns, gimmicky model names, or unnecessary complexity beyond the two-pattern constraint.
+- Taking trades without clear displacement and a formed FVG.
