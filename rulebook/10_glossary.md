@@ -11,3 +11,9 @@ that begins a directional series.
 
 ## Fair Value Gap (FVG)
 An imbalance created when price moves without candle overlap.
+
+## Dealing Range
+The session low-to-high used to define equilibrium, premium, and discount.
+
+## Equilibrium
+The 50% level of a defined dealing range.
