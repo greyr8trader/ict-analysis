@@ -17,3 +17,11 @@ The session low-to-high used to define equilibrium, premium, and discount.
 
 ## Equilibrium
 The 50% level of a defined dealing range.
+
+## Displacement
+An obvious, energetic movement in price that signals strong delivery.
+Weak or lethargic movement is not sufficient.
+
+## Swing High / Swing Low (3-Candle)
+Swing High: middle candle higher high than candles on both sides.
+Swing Low: middle candle lower low than candles on both sides.
