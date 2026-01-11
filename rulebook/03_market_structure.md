@@ -10,3 +10,11 @@
 
 ## Sequence Requirement
 - Liquidity interaction MUST occur before a structure break is used for execution logic.
+
+## Intraday Market Structure Shift (MSS)
+
+- For intraday trading, MSS MUST be used instead of “Market Structure Break.”
+- An intraday MSS implies a likely intraday draw, NOT a multi-day move.
+- An MSS is valid ONLY AFTER liquidity has been taken.
+- A candle DOES NOT need to close beyond a level to confirm an intraday MSS.
+- MSS significance depends entirely on prior liquidity interaction.
