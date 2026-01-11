@@ -34,3 +34,17 @@
   than the candles immediately to its left and right (higher lows on both sides).
 - Candle close direction is irrelevant for defining swing points.
 - Swing points represent likely locations of resting stops (liquidity).
+
+## Old Highs/Lows as Stop Locations
+
+- Old highs and old lows MUST be treated as obvious stop locations.
+- The model anticipates price seeking opposing liquidity as a primary draw.
+
+## Internal vs External Range Liquidity (IRL / ERL)
+
+- Internal Range Liquidity (IRL):
+  - Exists inside the displacement range.
+  - MAY be used for partial profit-taking.
+- External Range Liquidity (ERL):
+  - Exists beyond the displacement range.
+  - SHOULD be treated as full objectives (e.g., equal highs/lows beyond the range).
