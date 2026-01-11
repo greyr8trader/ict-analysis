@@ -1,105 +1,97 @@
-# ICT 2022 — Discretionary Analysis Template
+ICT 2022 — Discretionary Analysis Template
+(Educational / Discretionary — Not a signal service)
 
-> **Scope:** Educational / Discretionary  
-> **Not a signal service**
+────────────────────
 
----
+1. Higher-Timeframe Context (D → H1 → M15)
 
-## 1. Higher-Timeframe Context (D → H1 → M15)
+HTF Draw on Price
+• Buy-side liquidity ❌
+• Sell-side liquidity ✅
 
-### HTF Draw on Price
-- [ ] Buy-side liquidity  
-- [ ] Sell-side liquidity  
+Dealing Range (Active Session)
+• High: 25831.39
+• Low: 25461.89
+• Equilibrium (50%): 25646.64
 
-### Dealing Range (Active Session)
-- **High:**  
-- **Low:**  
-- **Equilibrium (50%):**
+Directional Bias
+• Bullish ❌
+• Bearish ⬜
 
-### Directional Bias
-- [ ] Bullish  
-- [ ] Bearish  
+Reason
+• D shows recent expansion up (01/08 close 25556.74 → 01/09 close 25779.64)
+• H1 on 01/09 made higher highs into 25831.39 → draw remains above recent highs (BSL)
 
-**Reason:**  
-*(HTF liquidity + market structure alignment)*
+M15 Status
+• Valid ⬜
+• Invalid ❌
 
-### M15 Status
-- [ ] Valid  
-- [ ] Invalid  
+────────────────────
 
-**Reason:**  
-*(Liquidity interaction + displacement quality)*
+2. Liquidity Map
 
----
+External Liquidity Targets
+• Buy-Side Liquidity (BSL):
+• Sell-Side Liquidity (SSL):
 
-## 2. Liquidity Map
+Internal Liquidity (IRL)
+• Short-term highs/lows inside current range
 
-### External Liquidity Targets
-- **Buy-Side Liquidity (BSL):**  
-- **Sell-Side Liquidity (SSL):**  
+Expectation
+• Which side must be raided before continuation
 
-### Internal Liquidity (IRL)
-- Short-term highs/lows inside the current range
+────────────────────
 
-### Expectation
-- *(Which side must be raided before continuation)*
+3. Session Model (NY Time)
 
----
+London Session
+• Expectation: Range / Raid / Expansion
 
-## 3. Session Model (New York Time)
+New York Session
+• Expectation: Continuation / Reversal
 
-### London Session
-- **Expectation:**  
-  *(Range / Raid / Expansion)*
+Execution Window
+• Preferred: 08:30 – 11:00
+• No-Trade: 12:00 – 13:00
 
-### New York Session
-- **Expectation:**  
-  *(Continuation / Reversal)*
+────────────────────
 
-### Execution Window
-- **Preferred:** 08:30–11:00  
-- **No-Trade:** 12:00–13:00  
+4. M5 Execution Checklist (IF → THEN)
 
----
+Entry is PERMITTED ONLY IF ALL are true:
 
-## 4. M5 Execution Checklist (IF → THEN)
+• Opposing liquidity taken ⬜
+• M5 MSS confirmed ⬜
+• Strong displacement present ⬜
+• FVG formed post-MSS ⬜
+• Entry in correct premium / discount ⬜
 
-**Entry is PERMITTED only if ALL conditions are met:**
+Execution Logic
+IF price retraces into valid FVG
+THEN entry may be considered
+ELSE no trade
 
-- [ ] Opposing liquidity taken  
-- [ ] M5 MSS confirmed  
-- [ ] Strong displacement present  
-- [ ] FVG formed post-MSS  
-- [ ] Entry occurs in correct premium / discount  
+────────────────────
 
-### Execution Logic
-- **IF** price retraces into a valid FVG  
-- **THEN** entry may be considered  
-- **ELSE** no trade  
+5. Risk & Objectives
 
----
+Stop Placement
+• Beyond displacement or FVG candle
 
-## 5. Risk & Objectives
+Primary Target
+• Nearest opposing liquidity
 
-### Stop Placement
-- *(Beyond displacement or FVG candle)*
+Secondary Target (optional)
+• IRL / partials
 
-### Primary Target
-- *(Nearest opposing liquidity)*
+────────────────────
 
-### Secondary Target (Optional)
-- *(IRL / partials)*
+6. Invalidation Conditions (Hard Stops)
 
----
+Bias or setup is INVALID if:
 
-## 6. Invalidation Conditions (Hard Stops)
-
-Bias or setup is **INVALID** if:
-
-- ❌ Liquidity is not taken  
-- ❌ MSS does not form  
-- ❌ No FVG forms after displacement  
-- ❌ Price holds beyond intended PD array  
-- ❌ Entry occurs outside session window  
-
----
+• Liquidity not taken
+• MSS does not form
+• No FVG after displacement
+• Price holds beyond intended PD array
+• Entry occurs outside session window
