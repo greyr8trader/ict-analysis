@@ -15,3 +15,11 @@
 ## Intraday Workflow
 - Intraday analysis MUST begin on the 5-minute chart.
 - Lower timeframes MAY be used only after higher-timeframe context is established.
+
+## Primary Framing Timeframe (Indices)
+
+- The 15-minute chart MUST be used as the primary (“bellwether”) timeframe for:
+  - Identifying key swing highs/lows,
+  - Framing liquidity pools,
+  - Locating imbalances (FVGs).
+- Lower timeframes MUST be used only AFTER the 15-minute context is framed.
