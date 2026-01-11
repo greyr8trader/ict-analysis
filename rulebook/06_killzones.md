@@ -37,3 +37,9 @@
 - The earliest preferred afternoon execution time is 1:30 PM NY time.
 - After 1:30 PM, look for the first swing high and swing low of the afternoon session.
 - Afternoon moves often accelerate into the close.
+
+## Time Priority (Professional Lens)
+
+- Time of day MUST be treated as a primary variable in price delivery.
+- Specific times of day tend to produce volatility expansion and short-term reversals.
+- Time-based charts are required for this model because algorithms operate under time.
