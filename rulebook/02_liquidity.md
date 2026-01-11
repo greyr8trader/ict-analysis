@@ -13,3 +13,11 @@
 - After consolidation, price OFTEN breaks first in one direction to induce entries,
   then reverses to attack the opposing liquidity pool.
 - Relative equal highs or equal lows SHOULD be treated as identifiable liquidity pools.
+
+## Internal Range Liquidity (IRL)
+
+- Internal Range Liquidity consists of:
+  - Short-term swing highs/lows within a price leg, OR
+  - Imbalances formed within that same range.
+- IRL is used AFTER external liquidity is taken to refine entries.
+- Relative equal highs/lows MUST be treated as strong liquidity pools.
