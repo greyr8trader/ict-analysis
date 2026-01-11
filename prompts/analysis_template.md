@@ -1,30 +1,105 @@
-ICT 2022 Mentorship — Discretionary Analysis ONLY
+# ICT 2022 — Discretionary Analysis Template
 
-HTF Narrative (D + H1 + M15)
-- Dealing range:
-- Bias (bullish/bearish) + why:
-- M15 validation (pass/fail) + why:
+> **Scope:** Educational / Discretionary  
+> **Not a signal service**
 
-Liquidity
-- Sell-side liquidity (SSL) targets:
-- Buy-side liquidity (BSL) targets:
+---
 
-Killzone Plan
-- London:
-- New York:
+## 1. Higher-Timeframe Context (D → H1 → M15)
 
-5M Execution Model
-- What I need to see (MSS / displacement / FVG entry):
-- Entry idea:
-- Targets:
-- Stops:
+### HTF Draw on Price
+- [ ] Buy-side liquidity  
+- [ ] Sell-side liquidity  
 
-Invalidation
-- Bias invalidates if:
+### Dealing Range (Active Session)
+- **High:**  
+- **Low:**  
+- **Equilibrium (50%):**
 
-Key Levels (Max 10 — No PD Arrays)
-Price | Dealing Range High
-Price | Dealing Range Low
-Price | Equilibrium
-Price | Equal Highs (BSL)
-Price | Equal Lows (SSL)
+### Directional Bias
+- [ ] Bullish  
+- [ ] Bearish  
+
+**Reason:**  
+*(HTF liquidity + market structure alignment)*
+
+### M15 Status
+- [ ] Valid  
+- [ ] Invalid  
+
+**Reason:**  
+*(Liquidity interaction + displacement quality)*
+
+---
+
+## 2. Liquidity Map
+
+### External Liquidity Targets
+- **Buy-Side Liquidity (BSL):**  
+- **Sell-Side Liquidity (SSL):**  
+
+### Internal Liquidity (IRL)
+- Short-term highs/lows inside the current range
+
+### Expectation
+- *(Which side must be raided before continuation)*
+
+---
+
+## 3. Session Model (New York Time)
+
+### London Session
+- **Expectation:**  
+  *(Range / Raid / Expansion)*
+
+### New York Session
+- **Expectation:**  
+  *(Continuation / Reversal)*
+
+### Execution Window
+- **Preferred:** 08:30–11:00  
+- **No-Trade:** 12:00–13:00  
+
+---
+
+## 4. M5 Execution Checklist (IF → THEN)
+
+**Entry is PERMITTED only if ALL conditions are met:**
+
+- [ ] Opposing liquidity taken  
+- [ ] M5 MSS confirmed  
+- [ ] Strong displacement present  
+- [ ] FVG formed post-MSS  
+- [ ] Entry occurs in correct premium / discount  
+
+### Execution Logic
+- **IF** price retraces into a valid FVG  
+- **THEN** entry may be considered  
+- **ELSE** no trade  
+
+---
+
+## 5. Risk & Objectives
+
+### Stop Placement
+- *(Beyond displacement or FVG candle)*
+
+### Primary Target
+- *(Nearest opposing liquidity)*
+
+### Secondary Target (Optional)
+- *(IRL / partials)*
+
+---
+
+## 6. Invalidation Conditions (Hard Stops)
+
+Bias or setup is **INVALID** if:
+
+- ❌ Liquidity is not taken  
+- ❌ MSS does not form  
+- ❌ No FVG forms after displacement  
+- ❌ Price holds beyond intended PD array  
+- ❌ Entry occurs outside session window  
+
+---
