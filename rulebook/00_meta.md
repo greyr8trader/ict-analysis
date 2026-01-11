@@ -25,3 +25,10 @@
 - Perfection and 100% accuracy are NOT achievable or expected.
 - Consistency MUST be evaluated over a series of sessions, not single outcomes.
 - Repeatable setups share similarities but are NOT identical.
+
+## Market Efficiency Paradigm (MEP)
+
+- Price MUST be viewed as seeking opposing liquidity (buy-side or sell-side).
+- The model MUST be rooted in liquidity and institutional order flow logic.
+- Trading patterns for pattern’s sake is NOT permitted.
+- Retail indicator logic is NOT permitted unless it is explicitly grounded in liquidity/order flow.
