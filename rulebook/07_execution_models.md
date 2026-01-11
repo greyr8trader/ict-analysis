@@ -39,3 +39,22 @@ An entry MUST NOT be taken unless all of the following are present:
   - Opposing-side stops,
   - Imbalances within premium or discount.
 - The closest, easiest objective (“low-hanging fruit”) SHOULD be prioritized.
+
+## Execution Discipline
+
+- Trades MUST NOT be forced or anticipated.
+- Entries MUST occur only after all criteria align:
+  1. Liquidity taken,
+  2. MSS confirmed,
+  3. FVG formed,
+  4. Entry in correct premium/discount context.
+- If any element is missing, NO trade is permitted.
+
+## Targets
+
+- Acceptable targets include:
+  - Prior session lows/highs,
+  - Prior swing lows/highs,
+  - Imbalances beyond equilibrium.
+- Conservative or partial targets are acceptable.
+
