@@ -30,3 +30,10 @@
 - Attempting to trade every day.
 - Ignoring the requirement for backtesting and journaling.
 - Expecting mastery without weeks to months of repetition.
+
+## Common Execution Errors
+
+- Forcing trades without full confirmation.
+- Anticipating MSS before it occurs.
+- Expecting identical repetitions of past examples.
+- Measuring success by range captured instead of rule compliance.
