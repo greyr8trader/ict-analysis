@@ -47,3 +47,10 @@
 
 - Adding extra patterns, gimmicky model names, or unnecessary complexity beyond the two-pattern constraint.
 - Taking trades without clear displacement and a formed FVG.
+
+## Common Conceptual Errors
+
+- Looking for FVGs without first identifying a liquidity raid and displacement.
+- Trading chart patterns (flags/wedges) without liquidity/order flow context.
+- Using retail indicators (RSI, stochastics, momentum tools) as decision drivers.
+- Aggressively trailing stops before significant liquidity objectives are reached.
