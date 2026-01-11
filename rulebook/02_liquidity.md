@@ -21,3 +21,16 @@
   - Imbalances formed within that same range.
 - IRL is used AFTER external liquidity is taken to refine entries.
 - Relative equal highs/lows MUST be treated as strong liquidity pools.
+
+## Swing Points as Liquidity (15m)
+
+- Prior to 8:30 AM NY time, traders MUST identify the most obvious swing high
+  and swing low on the 15-minute chart.
+
+### Swing High / Swing Low Definition
+- Swing High: a three-candle pattern where the middle candle has a higher high
+  than the candles immediately to its left and right (lower highs on both sides).
+- Swing Low: a three-candle pattern where the middle candle has a lower low
+  than the candles immediately to its left and right (higher lows on both sides).
+- Candle close direction is irrelevant for defining swing points.
+- Swing points represent likely locations of resting stops (liquidity).
