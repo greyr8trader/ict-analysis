@@ -22,3 +22,20 @@ An entry MUST NOT be taken unless all of the following are present:
 ## Targets
 - Targets SHOULD prioritize the closest opposing-side liquidity or imbalance.
 - “Low-hanging fruit” targets are preferred over extended projections.
+
+## Intraday Entry Constraints
+
+- Entries MUST occur only after:
+  1. Liquidity is taken,
+  2. An intraday MSS is confirmed,
+  3. An FVG or valid Order Block is present.
+- Entries MAY be taken against the immediate candle direction.
+- Early entries WITHOUT MSS confirmation SHOULD be avoided by developing traders.
+
+## Targets
+
+- Primary objectives include:
+  - Internal Range Liquidity,
+  - Opposing-side stops,
+  - Imbalances within premium or discount.
+- The closest, easiest objective (“low-hanging fruit”) SHOULD be prioritized.
