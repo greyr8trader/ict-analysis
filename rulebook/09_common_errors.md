@@ -19,3 +19,14 @@
 - Expecting daily perfection or constant profitability.
 - Abandoning the process due to frustration.
 - Believing all individuals can succeed regardless of discipline or mindset.
+
+## Execution Errors
+- Trading without Weekly bias.
+- Trading without prior liquidity interaction.
+- Chasing price after a structure break.
+- Expecting every session to provide a setup.
+
+## Expectation Errors
+- Attempting to trade every day.
+- Ignoring the requirement for backtesting and journaling.
+- Expecting mastery without weeks to months of repetition.
