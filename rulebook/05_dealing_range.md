@@ -19,3 +19,16 @@
 - In bearish conditions:
   - Targets SHOULD be below the 50% level.
 - Traders do NOT need to capture the entire range for a valid outcome.
+
+## Daily Range Design (Indices)
+
+- The trading day should be framed as:
+  - A morning move,
+  - A New York lunch pause/consolidation,
+  - An afternoon continuation or reversal.
+
+- Traders SHOULD study whether the afternoon:
+  - Continues the morning direction, OR
+  - Reverses the morning direction.
+
+- A measured move MAY occur where the afternoon duplicates the morning range expansion.
