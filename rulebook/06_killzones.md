@@ -19,3 +19,21 @@
 ## Usage
 - Expect session highs/lows to be swept to engineer liquidity.
 - MSS and FVG setups are favored immediately after a session liquidity sweep.
+
+## Daily Session Layout (Indices)
+
+- All session timing MUST be referenced in New York local time.
+
+### Morning Session
+- The morning trading window begins at 8:30 AM NY time.
+- Morning trading is preferred from 8:30 AM to 12:00 PM,
+  with preference to be positioned before ~11:00 AM.
+
+### New York Lunch (No-Trade)
+- 12:00 PM – 1:00 PM NY time is a NO-TRADE window.
+- While learning this model, traders MUST NOT trade this window even in demo.
+
+### Afternoon Session
+- The earliest preferred afternoon execution time is 1:30 PM NY time.
+- After 1:30 PM, look for the first swing high and swing low of the afternoon session.
+- Afternoon moves often accelerate into the close.
