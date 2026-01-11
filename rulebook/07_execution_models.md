@@ -58,3 +58,32 @@ An entry MUST NOT be taken unless all of the following are present:
   - Imbalances beyond equilibrium.
 - Conservative or partial targets are acceptable.
 
+## Two-Pattern Constraint (Indices)
+
+Only TWO execution patterns are required:
+
+1) Stop Hunt → MSS → FVG Entry
+- Price raids liquidity (above an old high or below an old low),
+  THEN produces an MSS,
+  THEN forms an FVG,
+  THEN entry is taken on retracement into the FVG.
+
+2) Displacement → FVG Entry
+- Price produces obvious displacement,
+  THEN forms an FVG,
+  THEN entry is taken on retracement into the FVG.
+
+- No additional patterns, indicators, or named models are required.
+
+## Displacement Requirement
+
+- A valid stop hunt setup REQUIRES clear, obvious displacement.
+- Weak or lethargic movement is NOT sufficient displacement.
+- If displacement occurs but no FVG forms, NO trade is permitted.
+
+## Trade Frequency & Risk
+
+- Traders MUST NOT aim for high trade frequency or micro-scalping.
+- One quality trade per session is sufficient.
+- Excessive leverage and oversized contract use can cause rapid loss and MUST be avoided.
+
