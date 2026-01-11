@@ -87,3 +87,20 @@ Only TWO execution patterns are required:
 - One quality trade per session is sufficient.
 - Excessive leverage and oversized contract use can cause rapid loss and MUST be avoided.
 
+## FVG Entry & Stops (Precise)
+
+### Entry
+- The simplest bearish FVG entry is a limit order just above Candle 3’s high.
+- (Bullish: reverse the logic.)
+
+### Stops
+- Stop loss MAY be placed:
+  - Above Candle 1 high, OR
+  - Above Candle 2 high.
+- Wider stops are acceptable while learning.
+
+## Model Integrity
+- This model MUST NOT be modified, renamed, or expanded with extra indicators/patterns.
+- Deviating from the process prevents finding valid ICT FVG setups.
+
+
