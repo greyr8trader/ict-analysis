@@ -1,3 +1,7 @@
+
+⚠️ This template is STRUCTURAL ONLY.
+All logic, permissions, and rules are enforced by system.txt and the RULEBOOK.
+
 ICT 2022 — Discretionary Analysis  
 Educational / Discretionary · Not a signal service
 
