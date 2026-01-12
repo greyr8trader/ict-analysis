@@ -1,115 +1,121 @@
-ICT 2022 — Discretionary Analysis
+ICT 2022 — Discretionary Analysis  
 Educational / Discretionary · Not a signal service
 
 ────────────────────────
 
-1. Higher-Timeframe Context (D → H1 → M15)
+0️⃣ MARKET STATE (DECLARE FIRST — NO REASONING)
 
-HTF Draw on Price
-What is the HTF Draw on Price?
-• 🟢 Buy-side liquidity
-• 🔴 Sell-side liquidity
+HTF Bias  
+• 🟢 Bullish  
+• 🔴 Bearish  
 
-Dealing Range (Active Session)
-• High: 25831.39
-• Low: 25461.89
-• Equilibrium (50%): 25646.64
+HTF Draw on Price  
+• 🟢 Buy-Side Liquidity (BSL)  
+• 🔴 Sell-Side Liquidity (SSL)  
 
-Directional Bias
-• 🟢 Bullish
-• 🔴 Bearish
-
-Reason
-• Daily is expanding higher into prior highs
-• 2026-01-09 high (25831.39) is pressing nearby buy-side liquidity
-• H1 raided sell-side at 25461.89 (01-09 session low)
-• Price recovered above EQ 25646.64 → HTF bullish context remains intact
-
-M15 Status
-• 🟢 Valid 
-• 🔴 Invalid
-
-Reason
-• No clean M15 MSS + displacement after the 25461.89 sell-side raid
-• Reversal is corrective and choppy
-• Without M15 MSS confirming HTF intent → NO TRADE
+M15 Status (Permission Gate)  
+• 🟢 Valid  
+• 🔴 Invalid  
 
 ────────────────────────
 
-2. Liquidity Map
+1️⃣ TRADE PERMISSION STATE
 
-External Liquidity Targets
-• Buy-Side Liquidity (BSL): 25833.79 (2026-01-07 D high)
-• Sell-Side Liquidity (SSL): 25461.89 (2026-01-09 session low)
+IF M15 Status = 🔴 Invalid  
+• ➜ NO TRADE  
+• ➜ Skip execution logic  
+• ➜ Skip risk & targets  
 
-Internal Liquidity (IRL)
-• Short-term highs/lows inside current range
-• Not actionable today due to invalid M15 confirmation
-
-Expectation
-• IF price holds above EQ 25646.64 → draw remains toward BSL 25833.79
-• IF price trades back below 25461.89 → bullish narrative is compromised
+IF M15 Status = 🟢 Valid  
+• ➜ Execution MAY proceed  
 
 ────────────────────────
 
-3. Session Model (New York Time)
+2️⃣ HTF CONTEXT (FACTS ONLY)
 
-London Session
+Dealing Range  
+• High:  
+• Low:  
+• Equilibrium (50%):  
 
-
-New York Session
-
-────────────────────────
-
-4. M5 Execution Checklist (IF → THEN)
-
-Entry is PERMITTED ONLY IF ALL are true:
-
-• 🔴 Opposing liquidity taken
-• 🟢 M5 MSS confirmed
-• 🟢 Strong displacement present
-• 🟢 FVG formed post-MSS
-• 🟢 Entry in correct premium / discount
-
-Execution Logic
-IF M15 prints a clean MSS + displacement aligned bullish
-THEN drop to M5 and require MSS → displacement → post-MSS FVG
-ELSE NO TRADE
+Liquidity Reference  
+• External BSL:  
+• External SSL:  
 
 ────────────────────────
 
-5. Risk & Objectives
+3️⃣ CONDITIONAL LOGIC (IF → THEN ONLY)
 
-Stop Placement
-• NO TRADE
-• If later valid → stop belongs beyond displacement low or FVG reference
-
-Primary Target
-• NO TRADE
-• If later valid → 25833.79 (BSL)
-
-Secondary Target (Optional)
-• NO TRADE
-• If later valid → internal short-term highs inside the range
+• IF price holds above EQ → HTF bias intact  
+• IF price trades below EQ → HTF bias weakened  
+• IF opposing liquidity is not taken → NO TRADE  
 
 ────────────────────────
 
-6. Invalidation Conditions (Hard Stops)
+4️⃣ M15 VALIDATION (MANDATORY GATE)
 
-Bias or setup is INVALID if:
+ALL must be 🟢 or trade is INVALID:
 
-• Liquidity is not taken
-• MSS does not form
-• No FVG after displacement
-• Price holds beyond intended PD array
-• Entry occurs outside session window
+• MSS aligned with HTF bias  
+• Clear displacement  
+• Structure is not ranging  
+
+M15 Result  
+• 🟢 Valid  
+• 🔴 Invalid → NO TRADE  
 
 ────────────────────────
 
-Key Levels
+5️⃣ M5 EXECUTION STATE (ONLY IF PERMITTED)
 
-• 25831.39 — Dealing Range High
-• 25461.89 — Dealing Range Low
-• 25646.64 — Equilibrium
-• 25833.79 — Buy-Side Liquidity
-• 25461.89 — Sell-Side Liquidity
+ALL must be 🟢 or NO TRADE:
+
+• Opposing liquidity taken  
+• M5 MSS  
+• Displacement present  
+• Post-MSS FVG formed  
+• Entry in correct premium / discount  
+• Occurs within valid session  
+
+────────────────────────
+
+6️⃣ RISK & OBJECTIVES
+
+IF Execution State = 🔴 Invalid  
+• Stop: NO TRADE  
+• Targets: NO TRADE  
+
+IF Execution State = 🟢 Valid  
+• Stop Location:  
+• Primary Target:  
+• Secondary Target (optional):  
+
+────────────────────────
+
+7️⃣ INVALIDATION CONDITIONS (HARD FAILS)
+
+Bias or setup is INVALID if ANY occur:
+
+• Required liquidity not taken  
+• MSS fails to form  
+• No displacement  
+• No FVG after displacement  
+• Price holds beyond intended PD array  
+• Entry outside session window  
+
+────────────────────────
+
+KEY LEVELS (REFERENCE ONLY — NOT ENTRIES)
+
+• Price | Dealing Range High  
+• Price | Dealing Range Low  
+• Price | Equilibrium  
+• Price | Equal Highs (BSL)  
+• Price | Equal Lows (SSL)  
+
+────────────────────────
+
+FINAL OUTPUT STATE
+
+• 🟢 TRADE PERMITTED  
+• 🔴 NO TRADE
