@@ -42,6 +42,7 @@ TELEGRAM OUTPUT FORMAT (hard rules):
 - Use algorithmic, rule-based style (IF → THEN logic, checklists).
 - Keep each bullet ≤ 1–2 lines.
 - Do NOT issue direct trade commands (no “buy/sell now”).
+- Display the actual HTF Draw on Price, Directional Bias, M15 Status  
 
 KEY LEVELS (hard rules):
 - The Key Levels section MUST be placed at the bottom.
