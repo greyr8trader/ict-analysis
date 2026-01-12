@@ -6,8 +6,8 @@ Educational / Discretionary · Not a signal service
 1. Higher-Timeframe Context (D → H1 → M15)
 
 HTF Draw on Price
-• Buy-side liquidity ❌
-• Sell-side liquidity ⬜
+• 🔴 Buy-side liquidity
+• 🟢 Sell-side liquidity
 
 Dealing Range (Active Session)
 • High: 25831.39
@@ -15,8 +15,8 @@ Dealing Range (Active Session)
 • Equilibrium (50%): 25646.64
 
 Directional Bias
-• Bullish ❌
-• Bearish ⬜
+• 🔴 Bullish
+• 🟢 Bearish
 
 Reason
 • Daily is expanding higher into prior highs
@@ -25,8 +25,8 @@ Reason
 • Price recovered above EQ 25646.64 → HTF bullish context remains intact
 
 M15 Status
-• Valid ⬜
-• Invalid ❌
+• 🟢 Valid 
+• 🔴 Invalid
 
 Reason
 • No clean M15 MSS + displacement after the 25461.89 sell-side raid
@@ -70,11 +70,11 @@ Execution Window
 
 Entry is PERMITTED ONLY IF ALL are true:
 
-• Opposing liquidity taken ❌
-• M5 MSS confirmed ⬜
-• Strong displacement present ⬜
-• FVG formed post-MSS ⬜
-• Entry in correct premium / discount ⬜
+• 🔴 Opposing liquidity taken
+• 🟢 M5 MSS confirmed
+• 🟢 Strong displacement present
+• 🟢 FVG formed post-MSS
+• 🟢 Entry in correct premium / discount
 
 Execution Logic
 IF M15 prints a clean MSS + displacement aligned bullish
