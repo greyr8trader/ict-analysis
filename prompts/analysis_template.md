@@ -7,8 +7,8 @@ Educational / Discretionary · Not a signal service
 
 HTF Draw on Price
 What is the HTF Draw on Price?
-• 🔴 Buy-side liquidity
-• 🟢 Sell-side liquidity
+• 🟢 Buy-side liquidity
+• 🔴 Sell-side liquidity
 
 Dealing Range (Active Session)
 • High: 25831.39
@@ -16,8 +16,8 @@ Dealing Range (Active Session)
 • Equilibrium (50%): 25646.64
 
 Directional Bias
-• 🔴 Bullish
-• 🟢 Bearish
+• 🟢 Bullish
+• 🔴 Bearish
 
 Reason
 • Daily is expanding higher into prior highs
