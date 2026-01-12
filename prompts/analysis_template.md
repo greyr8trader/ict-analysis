@@ -6,6 +6,7 @@ Educational / Discretionary · Not a signal service
 1. Higher-Timeframe Context (D → H1 → M15)
 
 HTF Draw on Price
+What is the HTF Draw on Price?
 • 🔴 Buy-side liquidity
 • 🟢 Sell-side liquidity
 
