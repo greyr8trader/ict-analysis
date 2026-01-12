@@ -55,15 +55,9 @@ Expectation
 3. Session Model (New York Time)
 
 London Session
-• Range → compression ahead of NY
+
 
 New York Session
-• Post-SSL raid continuation attempt
-• Execution blocked due to invalid M15 structure
-
-Execution Window
-• Preferred: 08:30–11:00
-• No-Trade: 12:00–13:00
 
 ────────────────────────
 
