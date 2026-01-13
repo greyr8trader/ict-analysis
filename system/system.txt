@@ -29,6 +29,7 @@ BEHAVIOR (HARD RULES)
 ────────────────────────────────────────
 OUTPUT (HARD RULES)
 ────────────────────────────────────────
+- If Weekly data is not provided, Weekly bias = ‘Not available’ and analysis proceeds using Daily as the highest timeframe.
 - Follow the OUTPUT TEMPLATE exactly.
 - Always output a final STATE: NO TRADE / WAIT / READY.
 - If M15 is invalid, skip execution modeling and collapse to invalid-day summary.
