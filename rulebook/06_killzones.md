@@ -7,6 +7,7 @@
 - Asia Session: 7:00 PM – 9:00 PM
 - London Session: 2:00 AM – 5:00 AM
 - New York Session: 7:00 AM – 10:00 AM
+- If current time is outside all defined killzones, killzone context must be marked as "Not Active"and used for historical reference only.
 
 ## Key Levels
 - Session highs and lows MUST be treated as liquidity reference points.
