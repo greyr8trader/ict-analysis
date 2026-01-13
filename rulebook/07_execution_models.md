@@ -7,6 +7,7 @@ An entry MUST NOT be taken unless all of the following are present:
 3. Opposing-side liquidity taken.
 4. Break in Market Structure on a lower timeframe.
 5. Fair Value Gap formed.
+6. If Weekly bias is not available, execution is not permitted for READY; analysis may only return NO TRADE or WAIT.
 
 ## Entry Logic
 - Entries MAY occur while price is moving against the intended direction
