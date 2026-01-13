@@ -18,3 +18,4 @@ Telegram-ready daily plan with:
 
 ## Data format
 Automation should provide OHLC arrays for D, H1, M15, M5 in JSON.
+test
