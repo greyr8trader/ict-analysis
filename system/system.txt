@@ -33,3 +33,5 @@ OUTPUT (HARD RULES)
 - Follow the OUTPUT TEMPLATE exactly.
 - Always output a final STATE: NO TRADE / WAIT / READY.
 - If M15 is invalid, skip execution modeling and collapse to invalid-day summary.
+- Execution concepts may be described structurally, but MUST NOT include order types, order placement language, or actionable phrasing (e.g., "limit order", "sell here").
+
