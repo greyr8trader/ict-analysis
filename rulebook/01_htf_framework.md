@@ -3,6 +3,7 @@
 ## Weekly Bias
 - The Weekly timeframe MUST be used to establish directional bias.
 - Weekly bias is an expectation of expansion (higher or lower), NOT a prediction of the weekly close.
+- If Weekly data is unavailable, Weekly bias = Not available; intraday analysis may proceed using Daily as HTF, but READY state must be blocked (cannot be READY without Weekly)
 
 ## Daily Context
 - The Daily timeframe MUST be used to identify swing highs, swing lows, and liquidity pools.
