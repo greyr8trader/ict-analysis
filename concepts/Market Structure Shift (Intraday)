@@ -17,10 +17,19 @@ Intraday market structure shifts are distinct from higher-timeframe market struc
 A structure shift is only meaningful after liquidity has been taken.
 (Source: 2022 ICT Mentorship — Episode 3)
 
+A market structure shift is confirmed at the moment price trades through a short-term swing, not after candle close.
+(Source: 2022 ICT Mentorship — Episode 4)
+
+A structure shift is invalid if price violates a prior high but fails to produce a Fair Value Gap.
+(Source: 2022 ICT Mentorship — Episode 4)
+
 Implied Conditions (Clearly Inferred)
 
 Intraday structure shifts often lead to a single price leg rather than multi-day movement.
 (Source: 2022 ICT Mentorship — Episode 3)
+
+Market structure shifts require both swing violation and displacement to be actionable.
+(Source: 2022 ICT Mentorship — Episode 4)
 
 Validity Conditions
 
@@ -44,3 +53,5 @@ Exact candle-count definition of swings is not specified.
 Source Log
 
 2022 ICT Mentorship — Episode 3 — intraday MSS clarified
+
+2022 ICT Mentorship — Episode 4 — MSS confirmation timing clarified
