@@ -19,12 +19,21 @@ Internal range liquidity consists of short-term highs or lows inside a price leg
 Internal liquidity is often targeted after an external liquidity run.
 (Source: 2022 ICT Mentorship — Episode 3)
 
+Internal range liquidity can be identified using the most recent low-to-high range, even when external session highs/lows are not in play.
+(Source: 2022 ICT Mentorship — Episode 4)
+
+Relative equal highs or lows within the current range qualify as internal liquidity targets.
+(Source: 2022 ICT Mentorship — Episode 4)
+
 Implied Conditions (Clearly Inferred)
 
 Internal range liquidity provides intermediate objectives during intraday delivery.
 (Source: 2022 ICT Mentorship — Episode 3)
 
 Validity Conditions
+
+Internal range liquidity is evaluated after defining the current range using the most recent significant low and high.
+(Source: 2022 ICT Mentorship — Episode 4)
 
 Requires a clearly defined external range or prior impulse leg.
 
@@ -46,3 +55,4 @@ No formal hierarchy between internal liquidity types (stops vs imbalance).
 Source Log
 
 2022 ICT Mentorship — Episode 3 — internal range liquidity defined
+2022 ICT Mentorship — Episode 4 — internal range examples and refinement
