@@ -1,0 +1,48 @@
+Session-Based Liquidity (Asia / London / New York)
+Canonical Definition
+
+Session-Based Liquidity refers to the highs and lows formed during defined trading sessions that act as liquidity pools.
+
+Identification Criteria
+
+Asia session: ~7 PM – 9 PM New York time.
+
+London session: ~2 AM – 5 AM New York time.
+
+New York session: ~7 AM – 10 AM New York time.
+
+Explicit Rules (From Sources)
+
+Session highs and lows are frequently swept for liquidity.
+(Source: 2022 ICT Mentorship — Episode 3)
+
+Intraday setups most commonly occur between 8:30 AM and noon New York time.
+(Source: 2022 ICT Mentorship — Episode 3)
+
+Implied Conditions (Clearly Inferred)
+
+Session liquidity provides predictable intraday targets.
+(Source: 2022 ICT Mentorship — Episode 3)
+
+Validity Conditions
+
+Requires consistent session timing (New York local time).
+
+Invalidation / Failure Conditions
+
+Not explicitly defined in available sources.
+
+What This Concept Is NOT
+
+Not market open strategies.
+
+Not volatility-based time filters.
+
+Ambiguities / Conflicts
+
+Afternoon session logic is acknowledged but excluded from scope.
+(Source: 2022 ICT Mentorship — Episode 3)
+
+Source Log
+
+2022 ICT Mentorship — Episode 3 — session liquidity framework
