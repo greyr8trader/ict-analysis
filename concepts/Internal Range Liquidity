@@ -1,0 +1,48 @@
+Internal Range Liquidity
+Canonical Definition
+
+Internal Range Liquidity refers to short-term liquidity pools (stops or imbalances) that form inside an existing price leg, as opposed to external range highs or lows.
+
+Identification Criteria
+
+Short-term swing highs or lows within a retracement.
+
+Fair Value Gaps formed inside a larger price leg.
+
+Relative equal highs/lows internal to the session range.
+
+Explicit Rules (From Sources)
+
+Internal range liquidity consists of short-term highs or lows inside a price leg that contain buy-side or sell-side stops.
+(Source: 2022 ICT Mentorship — Episode 3)
+
+Internal liquidity is often targeted after an external liquidity run.
+(Source: 2022 ICT Mentorship — Episode 3)
+
+Implied Conditions (Clearly Inferred)
+
+Internal range liquidity provides intermediate objectives during intraday delivery.
+(Source: 2022 ICT Mentorship — Episode 3)
+
+Validity Conditions
+
+Requires a clearly defined external range or prior impulse leg.
+
+Invalidation / Failure Conditions
+
+Not explicitly defined in available sources.
+
+What This Concept Is NOT
+
+Not external session highs or lows.
+
+Not higher-timeframe liquidity pools.
+
+Ambiguities / Conflicts
+
+No formal hierarchy between internal liquidity types (stops vs imbalance).
+(Source: 2022 ICT Mentorship — Episode 3)
+
+Source Log
+
+2022 ICT Mentorship — Episode 3 — internal range liquidity defined
