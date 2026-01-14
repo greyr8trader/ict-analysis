@@ -1,0 +1,48 @@
+Top-Down Timeframe Bias
+Canonical Definition
+
+Directional bias is established on higher timeframes and refined on lower timeframes for execution.
+
+Identification Criteria
+
+Weekly chart defines expected expansion.
+
+Daily chart identifies liquidity pools.
+
+Intraday charts provide execution logic.
+
+Explicit Rules (From Sources)
+
+Weekly candle establishes primary bias.
+(Source: 2022 ICT Mentorship — Episode 2)
+
+Daily chart contains majority of liquidity draw.
+(Source: 2022 ICT Mentorship — Episode 2)
+
+Implied Conditions (Clearly Inferred)
+
+Lower-timeframe setups are filtered by higher-timeframe bias.
+(Source: 2022 ICT Mentorship — Episode 2)
+
+Validity Conditions
+
+Requires alignment across at least two timeframes.
+
+Invalidation / Failure Conditions
+
+Not explicitly defined in available sources.
+
+What This Concept Is NOT
+
+Not multi-timeframe indicators.
+
+Not mechanical timeframe stacking.
+
+Ambiguities / Conflicts
+
+Exact timeframe combinations not rigidly specified.
+(Source: 2022 ICT Mentorship — Episode 2)
+
+Source Log
+
+2022 ICT Mentorship — Episode 2 — full top-down model explanation
