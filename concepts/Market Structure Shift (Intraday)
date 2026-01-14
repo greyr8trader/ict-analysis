@@ -1,39 +1,47 @@
 Market Structure Shift (Intraday)
 Canonical Definition
 
-A Market Structure Shift is an intraday change in directional delivery that occurs after liquidity has been taken, indicated by violation of a short-term swing.
+A Market Structure Shift is an intraday change in directional delivery that occurs after liquidity has been taken, indicated by violation of a previously formed short-term swing high or swing low.
 
 Identification Criteria
 
-Liquidity is first taken (buy-side or sell-side).
+A swing high or swing low is formed.
 
-A short-term swing high or low is then violated on lower timeframes (1m–3m).
+Buy-side or sell-side liquidity is taken.
+
+Price subsequently trades through the short-term swing level on lower timeframes (1m–3m).
 
 Explicit Rules (From Sources)
+
+A short-term low or high being violated after a liquidity run constitutes a market structure shift.
+(Source: 2022 ICT Mentorship — Episode 2)
+
+Market structure shifts are used only after liquidity has been taken.
+(Source: 2022 ICT Mentorship — Episode 2)
 
 Intraday market structure shifts are distinct from higher-timeframe market structure breaks.
 (Source: 2022 ICT Mentorship — Episode 3)
 
-A structure shift is only meaningful after liquidity has been taken.
-(Source: 2022 ICT Mentorship — Episode 3)
-
-A market structure shift is confirmed at the moment price trades through a short-term swing, not after candle close.
+A market structure shift is confirmed at the moment price trades through the swing, not at candle close.
 (Source: 2022 ICT Mentorship — Episode 4)
 
-A structure shift is invalid if price violates a prior high but fails to produce a Fair Value Gap.
+A structure shift is invalid if price violates a prior high or low but fails to produce a Fair Value Gap.
 (Source: 2022 ICT Mentorship — Episode 4)
 
 Implied Conditions (Clearly Inferred)
 
-Intraday structure shifts often lead to a single price leg rather than multi-day movement.
+Intraday market structure shifts typically lead to single intraday price legs, not multi-day trends.
 (Source: 2022 ICT Mentorship — Episode 3)
 
-Market structure shifts require both swing violation and displacement to be actionable.
+A structure shift requires both swing violation and displacement to be actionable.
 (Source: 2022 ICT Mentorship — Episode 4)
+
+Directional intent following a shift aligns with the most recent liquidity event.
+(Source: 2022 ICT Mentorship — Episode 2)
 
 Validity Conditions
 
-Must occur after a confirmed stop run.
+Must occur after a confirmed buy-side or sell-side liquidity run.
 
 Invalidation / Failure Conditions
 
@@ -41,17 +49,21 @@ Not explicitly defined in available sources.
 
 What This Concept Is NOT
 
-Not every swing violation.
+Not trendline breaks.
 
-Not trend reversal confirmation.
+Not indicator-based confirmation.
+
+Not higher-timeframe structural reversal.
 
 Ambiguities / Conflicts
 
-Exact candle-count definition of swings is not specified.
-(Source: 2022 ICT Mentorship — Episode 3)
+Exact candle-count definition for swings is not formally quantified.
+(Source: 2022 ICT Mentorship — Episodes 2 & 3)
 
 Source Log
 
-2022 ICT Mentorship — Episode 3 — intraday MSS clarified
+2022 ICT Mentorship — Episode 2 — structure break after liquidity run
 
-2022 ICT Mentorship — Episode 4 — MSS confirmation timing clarified
+2022 ICT Mentorship — Episode 3 — intraday MSS distinction clarified
+
+2022 ICT Mentorship — Episode 4 — confirmation timing and FVG requirement
