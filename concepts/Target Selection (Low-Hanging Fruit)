@@ -1,0 +1,48 @@
+Target Selection (Low-Hanging Fruit)
+Canonical Definition
+
+Target selection prioritizes the nearest opposing liquidity or imbalance that lies beyond equilibrium, favoring probability over maximum range capture.
+
+Identification Criteria
+
+Targets below equilibrium for shorts.
+
+Targets above equilibrium for longs.
+
+Imbalances or prior lows/highs nearest to entry.
+
+Explicit Rules (From Sources)
+
+The closest opposing liquidity or imbalance should be selected as the primary target.
+(Source: 2022 ICT Mentorship — Episode 4)
+
+Traders should not attempt to capture the full range while learning.
+(Source: 2022 ICT Mentorship — Episode 4)
+
+Implied Conditions (Clearly Inferred)
+
+Larger range targets may be left untraded even if later reached.
+(Source: 2022 ICT Mentorship — Episode 4)
+
+Validity Conditions
+
+Requires a defined range and equilibrium.
+
+Invalidation / Failure Conditions
+
+Not explicitly defined in available sources.
+
+What This Concept Is NOT
+
+Not profit maximization.
+
+Not fixed risk-reward targeting.
+
+Ambiguities / Conflicts
+
+No quantitative distance threshold defined.
+(Source: 2022 ICT Mentorship — Episode 4)
+
+Source Log
+
+2022 ICT Mentorship — Episode 4 — target refinement lesson
