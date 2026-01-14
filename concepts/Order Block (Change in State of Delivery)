@@ -1,0 +1,48 @@
+Order Block (Change in State of Delivery)
+Canonical Definition
+
+An Order Block is the price level marking a change in the state of delivery, identified by the opening price of a sequence of candles whose direction is later violated.
+
+Identification Criteria
+
+Consecutive candles closing in one direction.
+
+The opening price of the first candle in that sequence.
+
+Subsequent violation of that opening price.
+
+Explicit Rules (From Sources)
+
+An order block is defined by a change in the state of delivery when its originating open is violated.
+(Source: 2022 ICT Mentorship — Episode 3)
+
+Multiple consecutive candles can form a single order block.
+(Source: 2022 ICT Mentorship — Episode 3)
+
+Implied Conditions (Clearly Inferred)
+
+Order blocks gain significance when aligned with liquidity runs and structure shifts.
+(Source: 2022 ICT Mentorship — Episode 3)
+
+Validity Conditions
+
+Must coincide with a structural change and liquidity event.
+
+Invalidation / Failure Conditions
+
+Not explicitly defined in available sources.
+
+What This Concept Is NOT
+
+Not every down-closed or up-closed candle.
+
+Not supply and demand zones.
+
+Ambiguities / Conflicts
+
+No explicit minimum candle count defined.
+(Source: 2022 ICT Mentorship — Episode 3)
+
+Source Log
+
+2022 ICT Mentorship — Episode 3 — order block formally defined
