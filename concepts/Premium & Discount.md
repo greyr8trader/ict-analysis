@@ -19,10 +19,19 @@ Shorts are preferred when price is in premium; longs when in discount.
 Algorithms seek opposing side of the range for delivery.
 (Source: 2022 ICT Mentorship — Episode 2)
 
+The equilibrium level is derived from the most recent significant low-to-high range, not necessarily a session range.
+(Source: 2022 ICT Mentorship — Episode 4)
+
+Targets should exist below equilibrium for shorts and above equilibrium for longs.
+(Source: 2022 ICT Mentorship — Episode 4)
+
 Implied Conditions (Clearly Inferred)
 
 Premium/discount assists in target selection after entry.
 (Source: 2022 ICT Mentorship — Episode 2)
+
+Premium/discount is used to filter valid targets, not to trigger entries.
+(Source: 2022 ICT Mentorship — Episode 4)
 
 Validity Conditions
 
@@ -46,3 +55,5 @@ Range selection hierarchy not formally defined.
 Source Log
 
 2022 ICT Mentorship — Episode 2 — equilibrium logic introduced
+
+2022 ICT Mentorship — Episode 4 — equilibrium usage refined
