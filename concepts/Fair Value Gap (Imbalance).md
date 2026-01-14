@@ -19,6 +19,12 @@ Fair Value Gaps are used as entry delivery zones after a break in market structu
 Price often retraces into the imbalance before continuing.
 (Source: 2022 ICT Mentorship — Episode 2)
 
+A Fair Value Gap must exist between the candle high preceding displacement and the candle low following it.
+(Source: 2022 ICT Mentorship — Episode 4)
+
+If no Fair Value Gap forms after a swing violation, no trade setup exists.
+(Source: 2022 ICT Mentorship — Episode 4)
+
 Implied Conditions (Clearly Inferred)
 
 Fair Value Gaps are algorithmically rebalanced for efficient price delivery.
@@ -27,6 +33,9 @@ Fair Value Gaps are algorithmically rebalanced for efficient price delivery.
 Validity Conditions
 
 Occurs most frequently on lower timeframes (1m–3m) in indices.
+
+Fair Value Gaps are evaluated relative to the current defined range and its equilibrium.
+(Source: 2022 ICT Mentorship — Episode 4)
 
 Invalidation / Failure Conditions
 
@@ -46,3 +55,5 @@ No explicit rule for minimum size or candle count.
 Source Log
 
 2022 ICT Mentorship — Episode 2 — first formal FVG definition
+
+2022 ICT Mentorship — Episode 4 — FVG as mandatory condition reinforced
