@@ -49,6 +49,9 @@ A valid intraday structure shift may occur across multiple lower timeframes (15m
 A structure shift is confirmed when both a prior low and a prior high are violated within the same leg, followed by displacement.
 (Source: Episode 8)
 
+Manipulation phases often include a short-term structure violation that precedes true directional delivery.
+(Source: Episode 9)
+
 Implied Conditions (Clearly Inferred)
 
 Intraday market structure shifts typically lead to single intraday price legs, not multi-day trends.
@@ -99,3 +102,4 @@ Episode 7 — MSS reliability during consolidation
 
 Episode 6 — displacement vs wick-only clarification
 Episode 8 — multi-timeframe intraday MSS confirmation
+Episode 9 — MSS inside Po3 sequence
