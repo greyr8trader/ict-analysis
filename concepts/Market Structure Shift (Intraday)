@@ -34,6 +34,11 @@ Swing highs and swing lows used for structure are defined as three-candle format
 A valid intraday structure event requires energetic displacement, not a slow or anemic move.
 (Source: Episode 5)
 
+A valid intraday structure shift requires impulsive displacement, not a slow or overlapping move.
+(Source: Episode 6)
+
+Wick-only violations of a swing high/low do not constitute a valid structure shift.
+(Source: Episode 6)
 
 Implied Conditions (Clearly Inferred)
 
@@ -45,6 +50,9 @@ A structure shift requires both swing violation and displacement to be actionabl
 
 Directional intent following a shift aligns with the most recent liquidity event.
 (Source: 2022 ICT Mentorship — Episode 2)
+
+Structure shifts formed without displacement are invalid.
+(Source: Episode 6)
 
 Validity Conditions
 
@@ -74,3 +82,5 @@ Source Log
 2022 ICT Mentorship — Episode 3 — intraday MSS distinction clarified
 
 2022 ICT Mentorship — Episode 4 — confirmation timing and FVG requirement
+
+Episode 6 — displacement vs wick-only clarification
