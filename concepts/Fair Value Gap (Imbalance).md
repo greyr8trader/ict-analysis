@@ -18,6 +18,9 @@ The middle candle delivers displacement
 The gap exists between the prior candle’s high and the subsequent candle’s low
 (Source: Episode 6)
 
+Fair Value Gaps may be identified on lower timeframes (5m–1m) within a higher-timeframe price leg.
+(Source: Episode 8)
+
 Explicit Rules (From Sources)
 
 Fair Value Gaps are used as entry delivery zones after a break in market structure.
@@ -40,6 +43,9 @@ If price retraces into an FVG created by displacement, it qualifies as a valid d
 
 A Fair Value Gap must result from energetic displacement, not gradual price movement.
 (Source: Episode 6)
+
+Lower-timeframe FVGs are valid only when aligned with higher-timeframe bias and session timing.
+(Source: Episode 8)
 
 Implied Conditions (Clearly Inferred)
 
@@ -81,3 +87,4 @@ Episode 6 — three-candle FVG clarification and displacement requirement
 2022 ICT Mentorship — Episode 2 — first formal FVG definition
 
 2022 ICT Mentorship — Episode 4 — FVG as mandatory condition reinforced
+Episode 8 — LTF FVG alignment rules
