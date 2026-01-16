@@ -47,6 +47,9 @@ A Fair Value Gap must result from energetic displacement, not gradual price move
 Lower-timeframe FVGs are valid only when aligned with higher-timeframe bias and session timing.
 (Source: Episode 8)
 
+Fair Value Gaps created during manipulation phases often serve as support during distribution.
+(Source: Episode 9)
+
 Implied Conditions (Clearly Inferred)
 
 Fair Value Gaps are algorithmically rebalanced for efficient price delivery.
@@ -88,3 +91,4 @@ Episode 6 — three-candle FVG clarification and displacement requirement
 
 2022 ICT Mentorship — Episode 4 — FVG as mandatory condition reinforced
 Episode 8 — LTF FVG alignment rules
+Episode 9 — FVG role inside Power of Three
