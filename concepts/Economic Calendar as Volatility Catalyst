@@ -1,0 +1,66 @@
+Economic Calendar as Volatility Catalyst (News Embargo Framework)
+Canonical Definition
+
+The Economic Calendar acts as a scheduled volatility catalyst, where price often compresses or repositions ahead of high-impact events and expands directionally once the news embargo lifts.
+
+Identification Criteria
+
+Scheduled economic releases listed on a public economic calendar.
+
+Events classified by impact level (low, medium, high).
+
+Specific release times aligned to New York local time.
+
+Explicit Rules (From Sources)
+
+Traders must consult an economic calendar prior to trading to avoid unexpected volatility.
+(Source: Episode 10)
+
+The 08:30 NY time release window is the primary news embargo lift for U.S. equities and indices.
+(Source: Episode 10)
+
+High-impact news can be used as a smokescreen or catalyst for directional price delivery.
+(Source: Episode 10)
+
+Price often builds up or drops immediately before a scheduled report, with the real move occurring after release.
+(Source: Episode 10)
+
+Not all scheduled events are heavy hitters, but most materially affect stock indices.
+(Source: Episode 10)
+
+Implied Conditions (Clearly Inferred)
+
+Volatility expansion following news is often aligned with pre-existing daily bias.
+(Source: Episode 10 — CLEAR INFERENCE)
+
+News releases are frequently used to justify liquidity runs rather than to change bias.
+(Source: Episode 10 — CLEAR INFERENCE)
+
+Validity Conditions
+
+Applies only when:
+
+A scheduled event exists.
+
+The trader is operating during affected sessions (London / New York).
+
+Invalidation / Failure Conditions
+
+Not explicitly defined in available sources.
+
+What This Concept Is NOT
+
+Not a fundamental analysis framework.
+
+Not predictive of bullish or bearish direction by itself.
+
+Not a reason to trade solely based on news data.
+
+Ambiguities / Conflicts
+
+No quantitative volatility thresholds are defined for “high impact.”
+(Source: Episode 10)
+
+Source Log
+
+2022 ICT Mentorship — Episode 10 — economic calendar usage and news embargo behavior
