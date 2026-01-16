@@ -19,6 +19,9 @@ Session highs and lows are frequently swept for liquidity.
 Intraday setups most commonly occur between 8:30 AM and noon New York time.
 (Source: 2022 ICT Mentorship — Episode 3)
 
+Time-of-day is a primary variable in determining when liquidity will be engineered.
+(Source: Episode 6)
+
 Implied Conditions (Clearly Inferred)
 
 Session liquidity provides predictable intraday targets.
@@ -38,6 +41,9 @@ Requires consistent session timing (New York local time).
 
 Session concepts require New York local time calibration on charts.
 (Source: Episode 5)
+
+Session-based concepts require strict New York time anchoring to be valid.
+(Source: Episode 6)
 
 Invalidation / Failure Conditions
 
@@ -59,3 +65,5 @@ Source Log
 2022 ICT Mentorship — Episode 3 — session liquidity framework
 
 Episode 5 — intraday segmentation and no-trade window
+
+Episode 6 — time-based delivery emphasis
