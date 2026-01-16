@@ -28,6 +28,13 @@ A market structure shift is confirmed at the moment price trades through the swi
 A structure shift is invalid if price violates a prior high or low but fails to produce a Fair Value Gap.
 (Source: 2022 ICT Mentorship — Episode 4)
 
+Swing highs and swing lows used for structure are defined as three-candle formations, independent of candle close direction.
+(Source: Episode 5)
+
+A valid intraday structure event requires energetic displacement, not a slow or anemic move.
+(Source: Episode 5)
+
+
 Implied Conditions (Clearly Inferred)
 
 Intraday market structure shifts typically lead to single intraday price legs, not multi-day trends.
