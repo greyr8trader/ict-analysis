@@ -11,6 +11,12 @@ Correlated markets diverge near prior highs or lows.
 
 Relative unwillingness of one market to deliver to a liquidity level.
 
+In currency pairs, directional bias is derived from relative strength and weakness of the component currencies.
+(Source: Episode 8)
+
+A currency pair is expected to rise when the base currency is strong and the quote currency is weak.
+(Source: Episode 8)
+
 Explicit Rules (From Sources)
 
 Correlated indices generally move in tandem, but temporary divergence can signal accumulation or distribution.
@@ -21,6 +27,12 @@ A market’s unwillingness to make a lower low while correlated markets do so ca
 
 Intermarket confirmation is used after liquidity events, not in isolation.
 (Source: Episode 7)
+
+Intermarket confluence applies to Forex by decomposing the pair into its two component instruments.
+(Source: Episode 8)
+
+Confirmation can be obtained by observing Euro futures for Euro pairs and corresponding Yen behavior for Yen crosses.
+(Source: Episode 8)
 
 Implied Conditions (Clearly Inferred)
 
@@ -45,6 +57,9 @@ Not a standalone entry signal.
 
 Not predictive by itself.
 
+Not exotic-pair prediction without component confirmation.
+(Source: Episode 8)
+
 Ambiguities / Conflicts
 
 Degree and duration of divergence are not quantitatively defined.
@@ -53,3 +68,4 @@ Degree and duration of divergence are not quantitatively defined.
 Source Log
 
 2022 ICT Mentorship — Episode 7 — intermarket confirmation and divergence explanation
+Episode 8 — forex application via currency components
