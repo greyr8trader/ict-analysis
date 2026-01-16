@@ -28,6 +28,11 @@ Morning session behavior informs afternoon continuation or reversal bias.
 Higher-timeframe bias provides context, not prediction of exact highs or lows.
 (Source: Episode 6)
 
+Daily bias is derived from liquidity draw and range context, not candle color alone.
+(Source: Episode 7)
+
+Bias may become indeterminate near equilibrium or during consolidation.
+(Source: Episode 7)
 
 Implied Conditions (Clearly Inferred)
 
@@ -61,3 +66,4 @@ Source Log
 2022 ICT Mentorship — Episode 2 — full top-down model explanation
 
 Episode 6 — HTF bias framing
+Episode 7 — daily bias during consolidation
