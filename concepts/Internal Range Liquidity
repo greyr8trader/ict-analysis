@@ -11,6 +11,9 @@ Fair Value Gaps formed inside a larger price leg.
 
 Relative equal highs/lows internal to the session range.
 
+Internal range liquidity includes partial retracements and mid-range liquidity pools, not only equal highs/lows.
+(Source: Episode 6)
+
 Explicit Rules (From Sources)
 
 Internal range liquidity consists of short-term highs or lows inside a price leg that contain buy-side or sell-side stops.
@@ -35,6 +38,9 @@ Relative equal highs/lows formed repeatedly indicate retail positioning and buil
 
 Three-drive patterns contribute to internal liquidity formation.
 (Source: Episode 5)
+
+Internal liquidity is commonly cleared before price seeks external range liquidity.
+(Source: Episode 6 — CLEAR INFERENCE)
 
 Validity Conditions
 
@@ -63,4 +69,4 @@ Source Log
 2022 ICT Mentorship — Episode 3 — internal range liquidity defined
 2022 ICT Mentorship — Episode 4 — internal range examples and refinement
 Episode 5 — equal highs/lows and three-drive explanation
-
+Episode 6 — internal vs external liquidity sequencing
