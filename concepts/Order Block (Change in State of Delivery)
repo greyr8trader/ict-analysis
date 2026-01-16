@@ -11,6 +11,9 @@ The opening price of the first candle in that sequence.
 
 Subsequent violation of that opening price.
 
+Consecutive down-closed candles preceding impulsive expansion define a bullish order block.
+(Source: Episode 9)
+
 Explicit Rules (From Sources)
 
 An order block is defined by a change in the state of delivery when its originating open is violated.
@@ -18,6 +21,9 @@ An order block is defined by a change in the state of delivery when its originat
 
 Multiple consecutive candles can form a single order block.
 (Source: 2022 ICT Mentorship — Episode 3)
+
+Order blocks formed during manipulation can act as entry anchors during distribution.
+(Source: Episode 9)
 
 Implied Conditions (Clearly Inferred)
 
@@ -46,3 +52,4 @@ No explicit minimum candle count defined.
 Source Log
 
 2022 ICT Mentorship — Episode 3 — order block formally defined
+Episode 9 — OB formation and usage inside Po3
