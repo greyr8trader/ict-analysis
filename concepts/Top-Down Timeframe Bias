@@ -34,6 +34,9 @@ Daily bias is derived from liquidity draw and range context, not candle color al
 Bias may become indeterminate near equilibrium or during consolidation.
 (Source: Episode 7)
 
+Daily bias in Forex should be derived from relative currency strength, not candle direction alone.
+(Source: Episode 8)
+
 Implied Conditions (Clearly Inferred)
 
 Lower-timeframe setups are filtered by higher-timeframe bias.
@@ -67,3 +70,4 @@ Source Log
 
 Episode 6 — HTF bias framing
 Episode 7 — daily bias during consolidation
+Episode 8 — HTF bias via currency components
