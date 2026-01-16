@@ -43,6 +43,12 @@ Wick-only violations of a swing high/low do not constitute a valid structure shi
 Structure shifts occurring during heavy consolidation require additional confirmation.
 (Source: Episode 7)
 
+A valid intraday structure shift may occur across multiple lower timeframes (15m → 5m → 3m → 1m) within the same price leg.
+(Source: Episode 8)
+
+A structure shift is confirmed when both a prior low and a prior high are violated within the same leg, followed by displacement.
+(Source: Episode 8)
+
 Implied Conditions (Clearly Inferred)
 
 Intraday market structure shifts typically lead to single intraday price legs, not multi-day trends.
@@ -92,3 +98,4 @@ Source Log
 Episode 7 — MSS reliability during consolidation
 
 Episode 6 — displacement vs wick-only clarification
+Episode 8 — multi-timeframe intraday MSS confirmation
