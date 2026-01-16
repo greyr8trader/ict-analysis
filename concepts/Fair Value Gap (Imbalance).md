@@ -55,6 +55,9 @@ Implied Conditions (Clearly Inferred)
 Fair Value Gaps are algorithmically rebalanced for efficient price delivery.
 (Source: 2022 ICT Mentorship — Episode 2)
 
+Strong displacement candles formed immediately after news releases frequently create Fair Value Gaps.
+(Source: Episode 10 — CLEAR INFERENCE)
+
 Validity Conditions
 
 Occurs most frequently on lower timeframes (1m–3m) in indices.
@@ -92,3 +95,4 @@ Episode 6 — three-candle FVG clarification and displacement requirement
 2022 ICT Mentorship — Episode 4 — FVG as mandatory condition reinforced
 Episode 8 — LTF FVG alignment rules
 Episode 9 — FVG role inside Power of Three
+Episode 10 — news-induced imbalance creation
