@@ -25,6 +25,12 @@ A Fair Value Gap must exist between the candle high preceding displacement and t
 If no Fair Value Gap forms after a swing violation, no trade setup exists.
 (Source: 2022 ICT Mentorship — Episode 4)
 
+Fair Value Gaps are evaluated only after displacement, not before.
+(Source: Episode 5)
+
+If price retraces into an FVG created by displacement, it qualifies as a valid delivery zone.
+(Source: Episode 5)
+
 Implied Conditions (Clearly Inferred)
 
 Fair Value Gaps are algorithmically rebalanced for efficient price delivery.
@@ -46,6 +52,9 @@ What This Concept Is NOT
 Not supply/demand zones.
 
 Not gaps caused by illiquidity between sessions.
+
+Not every gap or inefficiency qualifies as an FVG without displacement.
+(Source: Episode 5)
 
 Ambiguities / Conflicts
 
