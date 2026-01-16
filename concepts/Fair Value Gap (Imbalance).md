@@ -11,6 +11,13 @@ No overlap between adjacent candles.
 
 Forms immediately after a market structure break.
 
+Clarified that a Fair Value Gap is defined using a three-candle sequence, where:
+
+The middle candle delivers displacement
+
+The gap exists between the prior candle’s high and the subsequent candle’s low
+(Source: Episode 6)
+
 Explicit Rules (From Sources)
 
 Fair Value Gaps are used as entry delivery zones after a break in market structure.
@@ -30,6 +37,9 @@ Fair Value Gaps are evaluated only after displacement, not before.
 
 If price retraces into an FVG created by displacement, it qualifies as a valid delivery zone.
 (Source: Episode 5)
+
+A Fair Value Gap must result from energetic displacement, not gradual price movement.
+(Source: Episode 6)
 
 Implied Conditions (Clearly Inferred)
 
@@ -56,12 +66,17 @@ Not gaps caused by illiquidity between sessions.
 Not every gap or inefficiency qualifies as an FVG without displacement.
 (Source: Episode 5)
 
+Wick-only inefficiencies or slow grind price action do not qualify as Fair Value Gaps.
+(Source: Episode 6)
+
 Ambiguities / Conflicts
 
 No explicit rule for minimum size or candle count.
 (Source: 2022 ICT Mentorship — Episode 2)
 
 Source Log
+
+Episode 6 — three-candle FVG clarification and displacement requirement
 
 2022 ICT Mentorship — Episode 2 — first formal FVG definition
 
