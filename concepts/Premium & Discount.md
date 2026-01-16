@@ -11,6 +11,9 @@ Calculate 50% midpoint.
 
 Above = premium, below = discount.
 
+Equilibrium can be defined using the most recent impulsive price leg, even when a larger range is not obvious.
+(Source: Episode 8)
+
 Explicit Rules (From Sources)
 
 Shorts are preferred when price is in premium; longs when in discount.
@@ -57,3 +60,4 @@ Source Log
 2022 ICT Mentorship — Episode 2 — equilibrium logic introduced
 
 2022 ICT Mentorship — Episode 4 — equilibrium usage refined
+Episode 8 — equilibrium in expansion environments
