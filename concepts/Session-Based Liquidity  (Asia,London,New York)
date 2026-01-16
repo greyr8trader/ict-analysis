@@ -24,9 +24,20 @@ Implied Conditions (Clearly Inferred)
 Session liquidity provides predictable intraday targets.
 (Source: 2022 ICT Mentorship — Episode 3)
 
+The New York lunch hour (12:00–13:00 NY time) is a no-trade window during learning.
+(Source: Episode 5)
+
+Morning session: 08:30–11:00 NY
+
+Afternoon session begins observation around 13:30 NY
+(Source: Episode 5)
+
 Validity Conditions
 
 Requires consistent session timing (New York local time).
+
+Session concepts require New York local time calibration on charts.
+(Source: Episode 5)
 
 Invalidation / Failure Conditions
 
@@ -46,3 +57,5 @@ Afternoon session logic is acknowledged but excluded from scope.
 Source Log
 
 2022 ICT Mentorship — Episode 3 — session liquidity framework
+
+Episode 5 — intraday segmentation and no-trade window
