@@ -3,6 +3,7 @@ Canonical Definition
 
 An Order Block is the price level marking a change in the state of delivery, identified by the opening price of a sequence of candles whose direction is later violated.
 An order block is a series of consecutive up-closed or down-closed candles formed within valid market structure, representing institutional order flow.
+An Order Block is a series of consecutive candles representing a change in delivery that must be validated by an associated imbalance.
 
 Identification Criteria
 
@@ -19,6 +20,12 @@ Order blocks are not limited to the last candle before displacement.
 
 Multiple consecutive candles may define the valid order block range.
 (Source: Episode 12)
+
+An Order Block is invalid without an accompanying Fair Value Gap.
+(Source: Episode 18)
+
+The Order Block may consist of multiple consecutive candles, not necessarily the last up-close or down-close candle.
+(Source: Episode 18)
 
 Explicit Rules (From Sources)
 
@@ -49,6 +56,12 @@ In bullish conditions, down-closed candles act as support and may be revisited m
 Order blocks must be evaluated within the prevailing structural narrative, not in isolation.
 (Source: Episode 13)
 
+The market is not required to trade into the final candle of an Order Block.
+(Source: Episode 18)
+
+Parent-timeframe imbalances can cap price delivery, preventing deeper Order Block interaction.
+(Source: Episode 18)
+
 Implied Conditions (Clearly Inferred)
 
 Order blocks gain significance when aligned with liquidity runs and structure shifts.
@@ -76,6 +89,11 @@ Not simply “the last up candle before a drop.”
 Not a single-candle concept divorced from structure.
 (Source: Episode 12)
 
+Not supply & demand zones.
+
+Not “last candle before a move” logic.
+(Source: Episode 18)
+
 Ambiguities / Conflicts
 
 No explicit minimum candle count defined.
@@ -88,3 +106,4 @@ Episode 9 — OB formation and usage inside Po3
 Episode 12 — advanced order block definition & misuse correction
 Episode 13 — order block support behavior
 Episode 14 — OB alignment with FVG
+Episode 18 — Order Block definition correction & constraints
