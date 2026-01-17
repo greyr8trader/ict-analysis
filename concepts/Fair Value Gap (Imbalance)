@@ -91,6 +91,12 @@ An imbalance is considered complete only after the displacement candle closes.
 Price may overshoot the low boundary of an imbalance intraday without invalidating it, when evaluated within a higher-timeframe bullish narrative.
 (Source: Episode 15)
 
+Higher-timeframe Fair Value Gaps provide context, even when lower-timeframe imbalances appear noisy.
+(Source: Episode 16)
+
+Lower-timeframe FVGs must be interpreted within the higher-timeframe narrative.
+(Source: Episode 16)
+
 Implied Conditions (Clearly Inferred)
 
 Fair Value Gaps are algorithmically rebalanced for efficient price delivery.
@@ -145,3 +151,4 @@ Episode 12 — imbalance → structure relationship
 Episode 13 — partial FVG rebalancing behavior
 Episode 14 — FVG entry and continuation behavior
 Episode 15 — FVG completion and tolerance clarification
+Episode 16 — HTF vs LTF imbalance alignment
