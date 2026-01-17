@@ -68,6 +68,9 @@ prior liquidity clearance, and
 premium/discount context.
 (Source: Episode 36)
 
+Fair Value Gaps identified on the daily timeframe remain relevant when transposed to lower timeframes.
+(Source: Episode 37)
+
 Explicit Rules (From Sources)
 
 Fair Value Gaps are used as entry delivery zones after a break in market structure.
@@ -255,6 +258,15 @@ Fair Value Gaps formed after a Market Structure Shift act as re-entry zones duri
 Price may trade partially into an imbalance before resuming delivery; full rebalancing is not required.
 (Source: Episode 36)
 
+Price may work inside a higher-timeframe Fair Value Gap for multiple sessions before resuming expansion.
+(Source: Episode 37)
+
+A Fair Value Gap can act as support during a retracement prior to continuation in the direction of the prevailing bias.
+(Source: Episode 37)
+
+Repeated testing of a Fair Value Gap does not invalidate it, provided displacement continues to respect it.
+(Source: Episode 37)
+
 Implied Conditions (Clearly Inferred)
 
 Fair Value Gaps are algorithmically rebalanced for efficient price delivery.
@@ -361,3 +373,4 @@ Episode 33 — FVG required after liquidity run, rejection of S/R framing
 Episode 34 — precise imbalance interaction and re-engagement
 Episode 35 — repeated and partial FVG interaction
 Episode 36 — FVG used after MSS and liquidity run
+Episode 37 — multi-session interaction with HTF FVG
