@@ -205,6 +205,12 @@ valid delivery may occur after an initial false move.
 Failure to deliver at 08:30 or 09:30 does not invalidate the session model.
 (Source: Episode 36)
 
+The New York Midnight Opening Price acts as a key reference during intraday retracements.
+(Source: Episode 37)
+
+Lunch-hour consolidation may precede PM session delivery toward pre-identified liquidity objectives.
+(Source: Episode 37)
+
 Implied Conditions (Clearly Inferred)
 
 Session liquidity provides predictable intraday targets.
@@ -276,6 +282,9 @@ Low-volatility days do not invalidate the model.
 Morning inactivity does not negate the model.
 (Source: Episode 33)
 
+Failure to deliver in the morning session does not invalidate the daily bias.
+(Source: Episode 37)
+
 Ambiguities / Conflicts
 
 Afternoon session logic is acknowledged but excluded from scope.
@@ -314,3 +323,4 @@ Episode 32 — consolidation day resolves into the close
 Episode 33 — PM delivery after delayed liquidity run
 Episode 34 — lunch-hour retracement and PM expansion during FOMC week
 Episode 36 — delayed NY delivery after false starts
+Episode 37 — NY midnight open and lunch-hour behavior
