@@ -55,6 +55,12 @@ The 50% equilibrium must be measured using the active dealing range associated w
 Equilibrium drawn from older or counter-trend legs is invalid for current decision-making.
 (Source: Episode 35)
 
+Premium and discount are defined strictly relative to the active swing high–low range, not by indicators.
+(Source: Episode 36)
+
+Price trading below the 50% equilibrium places the market in discount, regardless of perceived “oversold” conditions.
+(Source: Episode 36)
+
 Implied Conditions (Clearly Inferred)
 
 Premium/discount assists in target selection after entry.
@@ -93,6 +99,11 @@ Equilibrium is not static across sessions.
 Not every 50% level is actionable.
 (Source: Episode 35)
 
+Discount does not require oscillators or indicators.
+
+Equilibrium is not subjective.
+(Source: Episode 36)
+
 Ambiguities / Conflicts
 
 Range selection hierarchy not formally defined.
@@ -109,3 +120,4 @@ Episode 32 — mid-range gravitation on outside / choppy days
 Episode 33 — equilibrium framed relative to active range
 Episode 34 — correct dealing-range construction for equilibrium
 Episode 35 — correct equilibrium measurement rules
+Episode 36 — equilibrium used as objective premium/discount boundary
