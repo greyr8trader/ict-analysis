@@ -49,6 +49,12 @@ Premium and discount must be measured using the impulsive price leg in the inten
 The 50% equilibrium of the active dealing range acts as a key filter for retracement-based participation.
 (Source: Episode 34)
 
+The 50% equilibrium must be measured using the active dealing range associated with the most recent impulsive leg.
+(Source: Episode 35)
+
+Equilibrium drawn from older or counter-trend legs is invalid for current decision-making.
+(Source: Episode 35)
+
 Implied Conditions (Clearly Inferred)
 
 Premium/discount assists in target selection after entry.
@@ -82,6 +88,11 @@ Equilibrium is not measured from counter-trend swings.
 Not every 50% level is relevant without context.
 (Source: Episode 34)
 
+Equilibrium is not static across sessions.
+
+Not every 50% level is actionable.
+(Source: Episode 35)
+
 Ambiguities / Conflicts
 
 Range selection hierarchy not formally defined.
@@ -97,3 +108,4 @@ Episode 27 — equilibrium as counter-trend filter
 Episode 32 — mid-range gravitation on outside / choppy days
 Episode 33 — equilibrium framed relative to active range
 Episode 34 — correct dealing-range construction for equilibrium
+Episode 35 — correct equilibrium measurement rules
