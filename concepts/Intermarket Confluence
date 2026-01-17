@@ -95,6 +95,16 @@ during a liquidity sweep on one correlated market that is not confirmed by anoth
 SMT is used to confirm accumulation or distribution, not to define entries.
 (Source: Episode 38)
 
+Intermarket analysis is used to:
+
+confirm directional bias, and
+
+select the stronger or weaker correlated instrument.
+(Source: Episode 40)
+
+When one correlated market fails to make a lower low while another does, the relative strength leader is preferred.
+(Source: Episode 40)
+
 Implied Conditions (Clearly Inferred)
 
 Intermarket divergence provides confirmation of an already-established narrative.
@@ -140,6 +150,11 @@ SMT signals can disappear as markets realign.
 SMT is not predictive in isolation.
 (Source: Episode 38)
 
+Intermarket confluence is not correlation trading.
+
+It is not predictive in isolation.
+(Source: Episode 40)
+
 Ambiguities / Conflicts
 
 Degree and duration of divergence are not quantitatively defined.
@@ -157,3 +172,4 @@ Episode 22 — SMT confirmation via index divergence
 Episode 29 — NASDAQ vs S&P SMT divergence example
 Episode 35 — SMT timing and reliability constraints
 Episode 38 — SMT confirmation during discount-based accumulation
+Episode 40 — CAD vs indices / FX intermarket framing
