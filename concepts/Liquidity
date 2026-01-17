@@ -89,6 +89,15 @@ Relative Equal Highs / Lows are the primary external liquidity objectives used t
 Liquidity above relative equal highs is often targeted before bearish delivery.
 (Source: Episode 24)
 
+In a bearish bias, price typically seeks buy-side liquidity first (premium) before expanding toward sell-side liquidity (discount).
+(Source: Episode 25)
+
+Relative equal highs are commonly used as liquidity inducement prior to bearish expansion.
+(Source: Episode 25)
+
+Sell-side liquidity resting below prior daily lows serves as the offset pool for short positioning.
+(Source: Episode 25)
+
 Implied Conditions (Clearly Inferred)
 
 Liquidity runs often precede reversals when aligned with higher-timeframe bias.
@@ -117,6 +126,11 @@ Not retail resistance or breakout confirmation.
 Liquidity runs are not entries by themselves.
 (Source: Episode 24)
 
+Not support/resistance.
+
+Not retail breakout logic.
+(Source: Episode 25)
+
 Ambiguities / Conflicts
 
 Speaker rejects auction theory equivalence without formal definition.
@@ -136,3 +150,4 @@ Episode 21 — daily relative equal highs/lows as draw
 Episode 22 — daily relative equal lows as draw on liquidity
 Episode 23 — sweep vs run semantics
 Episode 24 — relative equal highs framing setup context
+Episode 25 — buy-side first, sell-side second sequencing
