@@ -160,6 +160,12 @@ Counter-trend setups most frequently occur during:
 13:30–15:30 NY retracement windows.
 (Source: Episode 27)
 
+09:30 NY Open is a critical catalyst for short-term liquidity runs and structure shifts.
+(Source: Episode 29)
+
+Pre–high-impact-event days (e.g., ahead of FED speeches) often exhibit compressed ranges and lethargic delivery.
+(Source: Episode 29)
+
 Implied Conditions (Clearly Inferred)
 
 Session liquidity provides predictable intraday targets.
@@ -205,6 +211,9 @@ Not volatility-based time filters.
 Asia session is not the primary delivery window for this model.
 (Source: Episode 25)
 
+Low-volatility days do not invalidate the model.
+(Source: Episode 29)
+
 Ambiguities / Conflicts
 
 Afternoon session logic is acknowledged but excluded from scope.
@@ -236,3 +245,4 @@ Episode 24 — time as an algorithmic element
 Episode 25 — NY-centric algorithm timing
 Episode 26 — post-08:30 volatility behavior
 Episode 27 — counter-trend timing windows
+Episode 29 — pre-event session behavior
