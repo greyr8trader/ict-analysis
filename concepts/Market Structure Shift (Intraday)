@@ -174,6 +174,15 @@ Displacement →
 Subsequent imbalance
 (Source: Episode 25)
 
+Intraday structure confirmation is reinforced when:
+
+Sell-side liquidity is taken,
+
+Price re-enters an imbalance, and
+
+Delivery shifts toward opposing liquidity.
+(Source: Episode 26)
+
 Implied Conditions (Clearly Inferred)
 
 Intraday market structure shifts typically lead to single intraday price legs, not multi-day trends.
@@ -249,3 +258,4 @@ Episode 22 — hierarchy of structure via imbalance
 Episode 23 — MSS timing around volatility events
 Episode 24 — MSS trigger definition and filtering logic
 Episode 25 — MSS dependency chain clarified
+Episode 26 — structure confirmation via liquidity + FVG alignment
