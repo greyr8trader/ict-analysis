@@ -179,6 +179,12 @@ consolidation, then
 continuation toward the pre-identified liquidity objective.
 (Source: Episode 31)
 
+Consolidation days often resolve during the 15:00–16:00 NY window, rather than during the morning session.
+(Source: Episode 32)
+
+The 3:00–4:00 NY period acts as a delivery window tied to on-close order flow, even in the absence of strong morning trends.
+(Source: Episode 32)
+
 Implied Conditions (Clearly Inferred)
 
 Session liquidity provides predictable intraday targets.
@@ -213,6 +219,13 @@ London setups must be evaluated in context of higher-timeframe bias and intermar
 
 Lunch-hour sweep logic applies when price consolidates into lunch and external liquidity remains unresolved.
 (Source: Episode 30)
+
+Afternoon delivery is most likely when:
+
+Price remains range-bound most of the day, and
+
+External liquidity (relative highs/lows) remains unresolved.
+(Source: Episode 32)
 
 Invalidation / Failure Conditions
 
@@ -267,3 +280,4 @@ Episode 27 — counter-trend timing windows
 Episode 29 — pre-event session behavior
 Episode 30 — lunch-hour sweep preceding afternoon expansion
 Episode 31 — lunch consolidation before continuation
+Episode 32 — consolidation day resolves into the close
