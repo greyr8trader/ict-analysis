@@ -148,6 +148,12 @@ An Order Block may appear after consolidation following displacement, and act as
 Shallow interaction with an Order Block (wick or partial body) may still be valid.
 (Source: Episode 36)
 
+A down-closed candle prior to an impulsive move may define an Order Block that aligns with an associated Fair Value Gap.
+(Source: Episode 37)
+
+Order Blocks may appear on lower timeframes within a higher-timeframe narrative.
+(Source: Episode 37)
+
 Implied Conditions (Clearly Inferred)
 
 Order blocks gain significance when aligned with liquidity runs and structure shifts.
@@ -226,3 +232,4 @@ Episode 31 — OB preceding sell-side delivery
 Episode 34 — multi-candle OB refinement and accumulation behavior
 Episode 35 — OB sensitive levels and Mean Threshold clarification
 Episode 36 — OB as consolidation-to-expansion mechanism
+Episode 37 — OB aligned with FVG and continuation
