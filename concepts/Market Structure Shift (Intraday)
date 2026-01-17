@@ -247,6 +247,16 @@ price sustains acceptance above it after retracement.
 Structure shifts must be evaluated relative to the active dealing range, not older intraday swings.
 (Source: Episode 38)
 
+Market Structure Shifts must be evaluated after liquidity has been addressed, not before.
+(Source: Episode 39)
+
+A valid bearish structure shift requires:
+
+buy-side liquidity run, and
+
+displacement lower following that run.
+(Source: Episode 39)
+
 Implied Conditions (Clearly Inferred)
 
 Intraday market structure shifts typically lead to single intraday price legs, not multi-day trends.
@@ -305,6 +315,9 @@ A single candle violation alone does not define a structure shift.
 Structure shifts are not defined by single-candle violations.
 (Source: Episode 38)
 
+A structure shift without a liquidity event is non-actionable.
+(Source: Episode 39)
+
 Ambiguities / Conflicts
 
 Exact candle-count definition for swings is not formally quantified.
@@ -347,3 +360,4 @@ Episode 33 — MSS requires liquidity + displacement, not consolidation noise
 Episode 36 — filtering valid MSS from internal noise
 Episode 37 — MSS confirmation via displacement of short-term high
 Episode 38 — MSS confirmation following failed downside objective
+Episode 39 — MSS sequencing relative to liquidity
