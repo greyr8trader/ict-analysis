@@ -31,6 +31,12 @@ Buy-side liquidity above relative equal highs serves as a primary draw during bu
 Buy-side liquidity above prior relative highs remains a valid draw even after short-term consolidation.
 (Source: Episode 14)
 
+Sell-side liquidity commonly rests below the most recent short-term swing low immediately following a bullish structure shift.
+(Source: Episode 15)
+
+Liquidity may be taken before price delivers into an imbalance.
+(Source: Episode 15)
+
 Implied Conditions (Clearly Inferred)
 
 Liquidity runs often precede reversals when aligned with higher-timeframe bias.
@@ -61,3 +67,4 @@ Source Log
 Episode 11 — persistence of liquidity draw
 Episode 13 — buy-side draw emphasis
 Episode 14 — persistence of buy-side draw
+Episode 15 — short-term sell-side draw after MSS
