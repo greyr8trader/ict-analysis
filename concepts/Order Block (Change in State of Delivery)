@@ -176,6 +176,16 @@ time-of-day expectations.
 Down-closed candles preceding displacement define valid bearish Order Blocks; up-closed candles define bullish ones.
 (Source: Episode 40)
 
+Order Blocks gain relevance when they appear:
+
+after a Market Structure Shift, and
+
+inside a higher-timeframe Fair Value Gap.
+(Source: Episode 41)
+
+Order Blocks may be retested multiple times before expansion.
+(Source: Episode 41)
+
 Implied Conditions (Clearly Inferred)
 
 Order blocks gain significance when aligned with liquidity runs and structure shifts.
@@ -257,3 +267,4 @@ Episode 36 — OB as consolidation-to-expansion mechanism
 Episode 37 — OB aligned with FVG and continuation
 Episode 39 — OB failure after multiple sell-side runs
 Episode 40 — OB alignment rules within the model
+Episode 41 — OB inside HTF FVG following MSS
