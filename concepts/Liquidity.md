@@ -28,6 +28,9 @@ Sell-side liquidity below prior daily lows remains a valid draw even after exten
 Buy-side liquidity above relative equal highs serves as a primary draw during bullish expansions.
 (Source: Episode 13)
 
+Buy-side liquidity above prior relative highs remains a valid draw even after short-term consolidation.
+(Source: Episode 14)
+
 Implied Conditions (Clearly Inferred)
 
 Liquidity runs often precede reversals when aligned with higher-timeframe bias.
@@ -57,3 +60,4 @@ Source Log
 2022 ICT Mentorship — Episode 2 — introduction of liquidity draw logic
 Episode 11 — persistence of liquidity draw
 Episode 13 — buy-side draw emphasis
+Episode 14 — persistence of buy-side draw
