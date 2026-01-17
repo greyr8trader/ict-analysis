@@ -257,6 +257,16 @@ buy-side liquidity run, and
 displacement lower following that run.
 (Source: Episode 39)
 
+A valid Market Structure Shift requires:
+
+displacement through a prior short-term high/low, and
+
+failure to immediately reverse back through that level.
+(Source: Episode 41)
+
+Absence of displacement after a stop run indicates no actionable shift.
+(Source: Episode 41)
+
 Implied Conditions (Clearly Inferred)
 
 Intraday market structure shifts typically lead to single intraday price legs, not multi-day trends.
@@ -318,6 +328,9 @@ Structure shifts are not defined by single-candle violations.
 A structure shift without a liquidity event is non-actionable.
 (Source: Episode 39)
 
+A stop run alone is not a structure shift.
+(Source: Episode 41)
+
 Ambiguities / Conflicts
 
 Exact candle-count definition for swings is not formally quantified.
@@ -361,3 +374,4 @@ Episode 36 — filtering valid MSS from internal noise
 Episode 37 — MSS confirmation via displacement of short-term high
 Episode 38 — MSS confirmation following failed downside objective
 Episode 39 — MSS sequencing relative to liquidity
+Episode 41 — MSS requires displacement, not just liquidity
