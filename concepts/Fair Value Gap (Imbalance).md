@@ -85,6 +85,12 @@ A Fair Value Gap can be used as a limit-entry reference after a confirmed market
 Closure or partial closure of a Fair Value Gap often precedes directional continuation.
 (Source: Episode 14)
 
+An imbalance is considered complete only after the displacement candle closes.
+(Source: Episode 15)
+
+Price may overshoot the low boundary of an imbalance intraday without invalidating it, when evaluated within a higher-timeframe bullish narrative.
+(Source: Episode 15)
+
 Implied Conditions (Clearly Inferred)
 
 Fair Value Gaps are algorithmically rebalanced for efficient price delivery.
@@ -92,6 +98,9 @@ Fair Value Gaps are algorithmically rebalanced for efficient price delivery.
 
 Strong displacement candles formed immediately after news releases frequently create Fair Value Gaps.
 (Source: Episode 10 — CLEAR INFERENCE)
+
+Narrative context governs tolerance for minor intraday violations around imbalance boundaries.
+(Source: Episode 15 — CLEAR INFERENCE)
 
 Validity Conditions
 
@@ -135,3 +144,4 @@ Episode 11 — FVG precision usage
 Episode 12 — imbalance → structure relationship
 Episode 13 — partial FVG rebalancing behavior
 Episode 14 — FVG entry and continuation behavior
+Episode 15 — FVG completion and tolerance clarification
