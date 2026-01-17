@@ -54,6 +54,13 @@ continuation toward the higher-timeframe liquidity objective.
 Imbalances may appear only on lower timeframes (e.g., 5-minute) and still govern delivery.
 (Source: Episode 33)
 
+An imbalance’s relevance is confirmed when price:
+
+trades away impulsively, then
+
+returns to the imbalance before expanding again.
+(Source: Episode 34)
+
 Explicit Rules (From Sources)
 
 Fair Value Gaps are used as entry delivery zones after a break in market structure.
@@ -216,6 +223,16 @@ A Fair Value Gap becomes actionable only after a qualifying liquidity event (e.g
 Fair Value Gaps are preferred over “old lows / highs” as reference levels; without an imbalance, the level is not trusted.
 (Source: Episode 33)
 
+Fair Value Gaps can form:
+
+after a sell-side run, and
+
+act as supportive price zones during accumulation prior to expansion.
+(Source: Episode 34)
+
+Price may return to the exact level of a prior imbalance (high or low) with high precision before continuing.
+(Source: Episode 34)
+
 Implied Conditions (Clearly Inferred)
 
 Fair Value Gaps are algorithmically rebalanced for efficient price delivery.
@@ -275,6 +292,11 @@ Not support/resistance.
 Not valid without displacement.
 (Source: Episode 33)
 
+Not all imbalances require full rebalancing.
+
+Not every imbalance implies immediate continuation.
+(Source: Episode 34)
+
 Ambiguities / Conflicts
 
 No explicit rule for minimum size or candle count.
@@ -310,3 +332,4 @@ Episode 30 — imbalance used during manipulation phase
 Episode 31 — FVG usage outside opening window
 Episode 32 — FVG unreliability inside chop
 Episode 33 — FVG required after liquidity run, rejection of S/R framing
+Episode 34 — precise imbalance interaction and re-engagement
