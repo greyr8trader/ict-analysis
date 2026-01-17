@@ -237,6 +237,16 @@ price sustains above it following retracement.
 Intraday structure shifts often align with higher-timeframe bias, not against it.
 (Source: Episode 37)
 
+A valid bullish Market Structure Shift is confirmed when:
+
+a short-term high is displaced, and
+
+price sustains acceptance above it after retracement.
+(Source: Episode 38)
+
+Structure shifts must be evaluated relative to the active dealing range, not older intraday swings.
+(Source: Episode 38)
+
 Implied Conditions (Clearly Inferred)
 
 Intraday market structure shifts typically lead to single intraday price legs, not multi-day trends.
@@ -292,6 +302,9 @@ Not every lower low or higher high is a Market Structure Shift.
 A single candle violation alone does not define a structure shift.
 (Source: Episode 37)
 
+Structure shifts are not defined by single-candle violations.
+(Source: Episode 38)
+
 Ambiguities / Conflicts
 
 Exact candle-count definition for swings is not formally quantified.
@@ -333,3 +346,4 @@ Episode 32 — delayed MSS on range-bound days
 Episode 33 — MSS requires liquidity + displacement, not consolidation noise
 Episode 36 — filtering valid MSS from internal noise
 Episode 37 — MSS confirmation via displacement of short-term high
+Episode 38 — MSS confirmation following failed downside objective
