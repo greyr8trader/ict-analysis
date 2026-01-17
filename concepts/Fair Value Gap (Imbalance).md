@@ -50,6 +50,18 @@ Lower-timeframe FVGs are valid only when aligned with higher-timeframe bias and 
 Fair Value Gaps created during manipulation phases often serve as support during distribution.
 (Source: Episode 9)
 
+Fair Value Gaps act as precision entry zones when aligned with:
+
+Prior swing highs
+
+Market structure
+
+Liquidity draw
+(Source: Episode 11)
+
+Entry into an FVG does not require price to reach the extreme of the range.
+(Source: Episode 11)
+
 Implied Conditions (Clearly Inferred)
 
 Fair Value Gaps are algorithmically rebalanced for efficient price delivery.
@@ -96,3 +108,4 @@ Episode 6 — three-candle FVG clarification and displacement requirement
 Episode 8 — LTF FVG alignment rules
 Episode 9 — FVG role inside Power of Three
 Episode 10 — news-induced imbalance creation
+Episode 11 — FVG precision usage
