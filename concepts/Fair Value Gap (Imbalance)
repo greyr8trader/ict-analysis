@@ -29,6 +29,9 @@ Fair Value Gaps may be identified on lower timeframes (5m–1m) within a higher-
 An imbalance may coexist with a price gap, reinforcing inefficiency.
 (Source: Episode 22)
 
+Imbalance relevance is evaluated by body interaction, not wick extremes, during volatility.
+(Source: Episode 23)
+
 Explicit Rules (From Sources)
 
 Fair Value Gaps are used as entry delivery zones after a break in market structure.
@@ -127,6 +130,12 @@ Multiple candles may trade inside an imbalance without invalidating it, provided
 Wicks probing beyond an imbalance boundary are permissible price action.
 (Source: Episode 22)
 
+During high-volatility events (e.g., FOMC), price may dip slightly beyond an imbalance boundary without invalidating it, provided candle bodies respect the imbalance.
+(Source: Episode 23)
+
+An imbalance can act as a staging area prior to continuation toward a higher-timeframe liquidity objective.
+(Source: Episode 23)
+
 Implied Conditions (Clearly Inferred)
 
 Fair Value Gaps are algorithmically rebalanced for efficient price delivery.
@@ -189,3 +198,4 @@ Episode 18 — HTF → LTF imbalance hierarchy
 Episode 17 — partial FVG behavior in FX
 Episode 20 — displacement requirement for FVG validity
 Episode 22 — imbalance tolerance and body priority
+Episode 23 — imbalance behavior under volatility
