@@ -61,6 +61,12 @@ Premium and discount are defined strictly relative to the active swing high–lo
 Price trading below the 50% equilibrium places the market in discount, regardless of perceived “oversold” conditions.
 (Source: Episode 36)
 
+Premium and discount must be measured using the current intraday dealing range, not earlier rejected ranges.
+(Source: Episode 38)
+
+Price repricing into discount ahead of the PM session supports a bullish afternoon narrative when liquidity remains above.
+(Source: Episode 38)
+
 Implied Conditions (Clearly Inferred)
 
 Premium/discount assists in target selection after entry.
@@ -104,6 +110,9 @@ Discount does not require oscillators or indicators.
 Equilibrium is not subjective.
 (Source: Episode 36)
 
+Discount is not defined by oscillators or indicators.
+(Source: Episode 38)
+
 Ambiguities / Conflicts
 
 Range selection hierarchy not formally defined.
@@ -121,3 +130,4 @@ Episode 33 — equilibrium framed relative to active range
 Episode 34 — correct dealing-range construction for equilibrium
 Episode 35 — correct equilibrium measurement rules
 Episode 36 — equilibrium used as objective premium/discount boundary
+Episode 38 — discount repricing prior to PM expansion
