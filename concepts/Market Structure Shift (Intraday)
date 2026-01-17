@@ -11,6 +11,19 @@ Buy-side or sell-side liquidity is taken.
 
 Price subsequently trades through the short-term swing level on lower timeframes (1m–3m).
 
+A swing high is defined as a candle with lower highs on both the left and right.
+(Source: Episode 11)
+
+Swing highs and lows can be classified as:
+
+Short-term
+
+Intermediate-term
+
+Long-term
+based on their relative nesting.
+(Source: Episode 11)
+
 Explicit Rules (From Sources)
 
 A short-term low or high being violated after a liquidity run constitutes a market structure shift.
@@ -51,6 +64,12 @@ A structure shift is confirmed when both a prior low and a prior high are violat
 
 Manipulation phases often include a short-term structure violation that precedes true directional delivery.
 (Source: Episode 9)
+
+Structure analysis requires hierarchical comparison of swings, not simple lower-high / lower-low logic.
+(Source: Episode 11)
+
+Wick violations without displacement are insufficient for confirming structure change.
+(Source: Episode 11)
 
 Implied Conditions (Clearly Inferred)
 
@@ -103,3 +122,4 @@ Episode 7 — MSS reliability during consolidation
 Episode 6 — displacement vs wick-only clarification
 Episode 8 — multi-timeframe intraday MSS confirmation
 Episode 9 — MSS inside Po3 sequence
+Episode 11 — swing hierarchy and structure clarification
