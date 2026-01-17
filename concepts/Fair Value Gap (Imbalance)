@@ -78,6 +78,13 @@ premium/discount relative to the active dealing range, and
 proximity to liquidity pools.
 (Source: Episode 38)
 
+Fair Value Gaps are most actionable when aligned with:
+
+session timing, and
+
+liquidity objectives beyond the gap.
+(Source: Episode 39)
+
 Explicit Rules (From Sources)
 
 Fair Value Gaps are used as entry delivery zones after a break in market structure.
@@ -288,6 +295,15 @@ use that nested imbalance as the basis for continuation.
 Fair Value Gaps do not need to fully rebalance to remain valid.
 (Source: Episode 38)
 
+Fair Value Gaps act as magnets for repricing, not guaranteed reversal points.
+(Source: Episode 39)
+
+A Fair Value Gap may remain valid even after multiple partial fills, provided displacement persists.
+(Source: Episode 39)
+
+Lower-timeframe Fair Value Gaps are subordinate to higher-timeframe Fair Value Gaps.
+(Source: Episode 39)
+
 
 Implied Conditions (Clearly Inferred)
 
@@ -397,3 +413,4 @@ Episode 35 — repeated and partial FVG interaction
 Episode 36 — FVG used after MSS and liquidity run
 Episode 37 — multi-session interaction with HTF FVG
 Episode 38 — nested HTF/LTF FVG interaction
+Episode 39 — HTF FVG as afternoon draw
