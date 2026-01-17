@@ -134,6 +134,9 @@ MSS is validated after session manipulation and confirmed by displacement away f
 
 (Source: Episode 19)
 
+A market structure shift is confirmed after displacement away from a Fair Value Gap, not merely after a swing violation.
+(Source: Episode 20)
+
 Implied Conditions (Clearly Inferred)
 
 Intraday market structure shifts typically lead to single intraday price legs, not multi-day trends.
@@ -197,3 +200,4 @@ Episode 15 — MSS confirmation before imbalance interaction
 Episode 16 — multiple intraday MSS events
 Episode 17 — IT high via imbalance retest
 Episode 18 — internal MSS clarification
+Episode 20 — MSS confirmation via displacement
