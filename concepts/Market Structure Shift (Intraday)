@@ -186,6 +186,15 @@ Delivery shifts toward opposing liquidity.
 Counter-trend entries require an intraday structure shift, even when the higher-timeframe bias remains opposite.
 (Source: Episode 27)
 
+A bullish intraday Market Structure Shift is confirmed when:
+
+Sell-side liquidity is taken, and
+
+Subsequent price action fails to make a lower low, then
+
+Short-term highs are displaced to the upside.
+(Source: Episode 29)
+
 Implied Conditions (Clearly Inferred)
 
 Intraday market structure shifts typically lead to single intraday price legs, not multi-day trends.
@@ -263,3 +272,4 @@ Episode 24 — MSS trigger definition and filtering logic
 Episode 25 — MSS dependency chain clarified
 Episode 26 — structure confirmation via liquidity + FVG alignment
 Episode 27 — MSS as prerequisite for counter-trend participation
+Episode 29 — MSS confirmation via failure to expand lower
