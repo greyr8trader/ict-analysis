@@ -25,6 +25,12 @@ Algorithms operate at specific times of day to deliver price efficiently.
 Fair Value Gaps are manifestations of inefficient price delivery that price later seeks to rebalance.
 (Source: 2022 ICT Mentorship — Episode 6)
 
+Buy-stops above old highs are used to facilitate short selling, not bullish continuation.
+(Source: Episode 25)
+
+Sell-stops below old lows provide the necessary liquidity for short covering.
+(Source: Episode 25)
+
 Implied Conditions (Clearly Inferred)
 
 Retail participation provides liquidity for institutional positioning.
@@ -60,3 +66,4 @@ Source Log
 2022 ICT Mentorship — Episode 6 — market efficiency and institutional order flow framing
 
 2022 ICT Mentorship — Episode 6 — market efficiency and institutional order flow framing
+Episode 25 — liquidity engineering explanation
