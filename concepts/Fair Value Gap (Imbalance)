@@ -304,6 +304,15 @@ A Fair Value Gap may remain valid even after multiple partial fills, provided di
 Lower-timeframe Fair Value Gaps are subordinate to higher-timeframe Fair Value Gaps.
 (Source: Episode 39)
 
+Fair Value Gaps are evaluated within premium/discount context of the active dealing range.
+(Source: Episode 40)
+
+Overlapping Fair Value Gaps with equilibrium are lower-priority arrays.
+(Source: Episode 40)
+
+Fair Value Gaps function as price delivery mechanisms, not entry guarantees.
+(Source: Episode 40)
+
 
 Implied Conditions (Clearly Inferred)
 
@@ -373,6 +382,11 @@ Imbalances are not guaranteed turning points.
 Full rebalancing is not required.
 (Source: Episode 35)
 
+FVGs are not entry signals by themselves.
+
+FVGs do not require full rebalancing.
+(Source: Episode 40)
+
 Ambiguities / Conflicts
 
 No explicit rule for minimum size or candle count.
@@ -414,3 +428,4 @@ Episode 36 — FVG used after MSS and liquidity run
 Episode 37 — multi-session interaction with HTF FVG
 Episode 38 — nested HTF/LTF FVG interaction
 Episode 39 — HTF FVG as afternoon draw
+Episode 40 — FVG hierarchy and discount context
