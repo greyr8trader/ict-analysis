@@ -127,6 +127,21 @@ consolidate, and
 re-accumulate before continuation.
 (Source: Episode 34)
 
+When using a higher-timeframe Order Block candle, the three most sensitive levels are:
+
+the low,
+
+the open, and
+
+the midpoint (50%) of the candle.
+(Source: Episode 35)
+
+Price trading into the 50% of an Order Block candle is referred to as the Mean Threshold.
+(Source: Episode 35)
+
+Reaching the Mean Threshold supports continuation toward the next liquidity objective.
+(Source: Episode 35)
+
 Implied Conditions (Clearly Inferred)
 
 Order blocks gain significance when aligned with liquidity runs and structure shifts.
@@ -178,6 +193,11 @@ Order Blocks are not single-candle patterns by necessity.
 Deep penetration is not required for validity.
 (Source: Episode 34)
 
+The Mean Threshold is not a reversal requirement.
+
+Full penetration of the Order Block is not required.
+(Source: Episode 35)
+
 Ambiguities / Conflicts
 
 No explicit minimum candle count defined.
@@ -198,3 +218,4 @@ Episode 26 — multi-candle OB definition and shallow interaction
 Episode 30 — repeated OB interaction before expansion
 Episode 31 — OB preceding sell-side delivery
 Episode 34 — multi-candle OB refinement and accumulation behavior
+Episode 35 — OB sensitive levels and Mean Threshold clarification
