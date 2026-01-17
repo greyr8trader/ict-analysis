@@ -79,6 +79,12 @@ Price does not always fully rebalance a Fair Value Gap before continuing toward 
 Shallow retracements into an FVG can be sufficient for continuation.
 (Source: Episode 13)
 
+A Fair Value Gap can be used as a limit-entry reference after a confirmed market structure shift.
+(Source: Episode 14)
+
+Closure or partial closure of a Fair Value Gap often precedes directional continuation.
+(Source: Episode 14)
+
 Implied Conditions (Clearly Inferred)
 
 Fair Value Gaps are algorithmically rebalanced for efficient price delivery.
@@ -128,3 +134,4 @@ Episode 10 — news-induced imbalance creation
 Episode 11 — FVG precision usage
 Episode 12 — imbalance → structure relationship
 Episode 13 — partial FVG rebalancing behavior
+Episode 14 — FVG entry and continuation behavior
