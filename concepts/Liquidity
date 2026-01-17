@@ -104,6 +104,12 @@ Sell-side liquidity is considered “taken” when price trades below relative e
 After sell-side liquidity is taken, buy-side liquidity above relative highs becomes the next primary draw, even when trading counter to the daily bias.
 (Source: Episode 26)
 
+A counter-trend move is often driven by external liquidity (e.g., relative equal highs) rather than trend continuation.
+(Source: Episode 27)
+
+Liquidity objectives do not need to be reached for a valid counter-trend expansion to occur.
+(Source: Episode 27)
+
 Implied Conditions (Clearly Inferred)
 
 Liquidity runs often precede reversals when aligned with higher-timeframe bias.
@@ -140,6 +146,9 @@ Not support/resistance.
 Not retail breakout logic.
 (Source: Episode 25)
 
+Counter-trend liquidity draws are not trend reversals by default.
+(Source: Episode 27)
+
 Ambiguities / Conflicts
 
 Speaker rejects auction theory equivalence without formal definition.
@@ -161,3 +170,4 @@ Episode 23 — sweep vs run semantics
 Episode 24 — relative equal highs framing setup context
 Episode 25 — buy-side first, sell-side second sequencing
 Episode 26 — sell-side taken → buy-side draw sequencing
+Episode 27 — liquidity-driven counter-trend expansion
