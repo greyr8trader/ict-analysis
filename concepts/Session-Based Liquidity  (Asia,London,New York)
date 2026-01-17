@@ -166,6 +166,12 @@ Counter-trend setups most frequently occur during:
 Pre–high-impact-event days (e.g., ahead of FED speeches) often exhibit compressed ranges and lethargic delivery.
 (Source: Episode 29)
 
+NY lunch-hour lows (12:00–13:00 NY) are frequently swept ahead of an afternoon continuation to the upside.
+(Source: Episode 30)
+
+On days with 14:00 NY macro remarks, the true delivery may occur after lunch-hour manipulation rather than during the morning session.
+(Source: Episode 30)
+
 Implied Conditions (Clearly Inferred)
 
 Session liquidity provides predictable intraday targets.
@@ -197,6 +203,9 @@ Session logic must be evaluated in conjunction with higher-timeframe PD arrays.
 
 London setups must be evaluated in context of higher-timeframe bias and intermarket confirmation.
 (Source: Episode 20)
+
+Lunch-hour sweep logic applies when price consolidates into lunch and external liquidity remains unresolved.
+(Source: Episode 30)
 
 Invalidation / Failure Conditions
 
@@ -246,3 +255,4 @@ Episode 25 — NY-centric algorithm timing
 Episode 26 — post-08:30 volatility behavior
 Episode 27 — counter-trend timing windows
 Episode 29 — pre-event session behavior
+Episode 30 — lunch-hour sweep preceding afternoon expansion
