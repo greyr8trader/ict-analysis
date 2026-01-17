@@ -28,6 +28,12 @@ The equilibrium level is derived from the most recent significant low-to-high ra
 Targets should exist below equilibrium for shorts and above equilibrium for longs.
 (Source: 2022 ICT Mentorship — Episode 4)
 
+Counter-trend longs are only considered when price trades at or below equilibrium (discount).
+(Source: Episode 27)
+
+Counter-trend shorts are only considered when price trades at or above equilibrium (premium).
+(Source: Episode 27)
+
 Implied Conditions (Clearly Inferred)
 
 Premium/discount assists in target selection after entry.
@@ -50,6 +56,9 @@ Not Fibonacci trading strategy.
 
 Not valuation analysis.
 
+Not justification for trading mid-range.
+(Source: Episode 27)
+
 Ambiguities / Conflicts
 
 Range selection hierarchy not formally defined.
@@ -61,3 +70,4 @@ Source Log
 
 2022 ICT Mentorship — Episode 4 — equilibrium usage refined
 Episode 8 — equilibrium in expansion environments
+Episode 27 — equilibrium as counter-trend filter
