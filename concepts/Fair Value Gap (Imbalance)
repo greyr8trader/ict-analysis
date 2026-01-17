@@ -41,6 +41,9 @@ FVG relevance is assessed relative to the most recent liquidity event (sell-side
 “Close proximity” interaction with an imbalance is acceptable when price does not fully rebalance the gap.
 (Source: Episode 29)
 
+Imbalance relevance is assessed in context of the most recent liquidity event (e.g., lunch-hour sweep).
+(Source: Episode 30)
+
 Explicit Rules (From Sources)
 
 Fair Value Gaps are used as entry delivery zones after a break in market structure.
@@ -179,6 +182,12 @@ A Fair Value Gap is only actionable after a valid Market Structure Shift.
 Multiple candles may provide repeated opportunities within or near a Fair Value Gap.
 (Source: Episode 29)
 
+An imbalance below relative equal lows can serve as a collection area during manipulation prior to expansion.
+(Source: Episode 30)
+
+Price may not fully trade into an imbalance before continuation; partial interaction is sufficient.
+(Source: Episode 30)
+
 Implied Conditions (Clearly Inferred)
 
 Fair Value Gaps are algorithmically rebalanced for efficient price delivery.
@@ -261,3 +270,4 @@ Episode 25 — FVG as centerpiece of the model
 Episode 26 — FVG used after liquidity raid
 Episode 27 — FVG usage in counter-trend conditions
 Episode 29 — repeated FVG interaction and proximity logic
+Episode 30 — imbalance used during manipulation phase
