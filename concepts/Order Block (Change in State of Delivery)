@@ -62,6 +62,14 @@ The market is not required to trade into the final candle of an Order Block.
 Parent-timeframe imbalances can cap price delivery, preventing deeper Order Block interaction.
 (Source: Episode 18)
 
+Candle bodies prioritized over wicks for Order Block relevance.
+
+OB requires displacement + FVG to validate.
+
+OB is a reference bookmark, not a supply/demand zone.
+
+(Source: Episode 19)
+
 Implied Conditions (Clearly Inferred)
 
 Order blocks gain significance when aligned with liquidity runs and structure shifts.
