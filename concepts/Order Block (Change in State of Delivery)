@@ -91,6 +91,12 @@ Liquidity draw
 Associated imbalance
 (Source: Episode 22)
 
+Order Block validity is determined by candle bodies respecting the zone, even if wicks probe beyond during volatility.
+(Source: Episode 23)
+
+A bearish Order Block may be revisited and respected before continuation in the direction of the prevailing narrative.
+(Source: Episode 23)
+
 Implied Conditions (Clearly Inferred)
 
 Order blocks gain significance when aligned with liquidity runs and structure shifts.
@@ -131,6 +137,9 @@ Not a single “entry candle”.
 Not invalidated by minor wick penetration.
 (Source: Episode 22)
 
+Not invalidated by minor wick penetration during news-driven volatility.
+(Source: Episode 23)
+
 Ambiguities / Conflicts
 
 No explicit minimum candle count defined.
@@ -146,3 +155,4 @@ Episode 14 — OB alignment with FVG
 Episode 18 — Order Block definition correction & constraints
 Episode 21 — daily order block directional context
 Episode 22 — Order Block body-based validation
+Episode 23 — OB body vs wick clarification (volatility context)
