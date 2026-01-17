@@ -155,6 +155,16 @@ An intermediate-term high or low is often confirmed through displacement and imb
 Intraday structure confirmation may occur after volatility subsides, not necessarily on the first impulse move.
 (Source: Episode 23)
 
+A valid Market Structure Shift requires:
+
+A run on liquidity, and
+
+Displacement that takes out a short-term swing low (bearish case) or high (bullish case).
+(Source: Episode 24)
+
+A simple move above or below a level does NOT qualify as a structure shift.
+(Source: Episode 24)
+
 Implied Conditions (Clearly Inferred)
 
 Intraday market structure shifts typically lead to single intraday price legs, not multi-day trends.
@@ -182,6 +192,9 @@ Not explicitly defined in available sources.
 
 Violation of an intermediate-term high (bearish case) or low (bullish case) invalidates the structural premise.
 (Source: Episode 12)
+
+If displacement does not occur after a liquidity run, no setup exists.
+(Source: Episode 24)
 
 What This Concept Is NOT
 
@@ -222,3 +235,4 @@ Episode 20 — MSS confirmation via displacement
 Episode 21 — MSS relative to opening price
 Episode 22 — hierarchy of structure via imbalance
 Episode 23 — MSS timing around volatility events
+Episode 24 — MSS trigger definition and filtering logic
