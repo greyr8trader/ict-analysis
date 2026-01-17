@@ -112,6 +112,12 @@ Session context governs relevance.
 
 (Source: Episode 19)
 
+A Fair Value Gap is not actionable until price has clearly displaced away from it.
+(Source: Episode 20)
+
+Immediate re-entry into an imbalance without displacement does not qualify as valid delivery.
+(Source: Episode 20)
+
 Implied Conditions (Clearly Inferred)
 
 Fair Value Gaps are algorithmically rebalanced for efficient price delivery.
@@ -172,3 +178,4 @@ Episode 15 — FVG completion and tolerance clarification
 Episode 16 — HTF vs LTF imbalance alignment
 Episode 18 — HTF → LTF imbalance hierarchy
 Episode 17 — partial FVG behavior in FX
+Episode 20 — displacement requirement for FVG validity
