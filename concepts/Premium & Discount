@@ -43,6 +43,12 @@ Premium and discount are assessed relative to the most recent dealing range, not
 Failure to reach a visible premium does not invalidate the model if the liquidity objective remains active.
 (Source: Episode 33)
 
+Premium and discount must be measured using the impulsive price leg in the intended direction, not arbitrary highs/lows.
+(Source: Episode 34)
+
+The 50% equilibrium of the active dealing range acts as a key filter for retracement-based participation.
+(Source: Episode 34)
+
 Implied Conditions (Clearly Inferred)
 
 Premium/discount assists in target selection after entry.
@@ -71,6 +77,11 @@ Not justification for trading mid-range.
 Mid-range is not a random target; it is a mean-reversion objective on consolidation days.
 (Source: Episode 32)
 
+Equilibrium is not measured from counter-trend swings.
+
+Not every 50% level is relevant without context.
+(Source: Episode 34)
+
 Ambiguities / Conflicts
 
 Range selection hierarchy not formally defined.
@@ -85,3 +96,4 @@ Episode 8 — equilibrium in expansion environments
 Episode 27 — equilibrium as counter-trend filter
 Episode 32 — mid-range gravitation on outside / choppy days
 Episode 33 — equilibrium framed relative to active range
+Episode 34 — correct dealing-range construction for equilibrium
