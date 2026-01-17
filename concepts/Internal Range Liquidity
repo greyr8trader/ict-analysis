@@ -37,6 +37,9 @@ Relative equal highs or lows formed during accumulation represent liquidity targ
 Equal highs or lows formed during consolidation represent internal liquidity recycling, not directional intent.
 (Source: Episode 11)
 
+Equal highs/lows inside consolidation often represent internal liquidity, not trend intent.
+(Source: Episode 12)
+
 Implied Conditions (Clearly Inferred)
 
 Internal range liquidity provides intermediate objectives during intraday delivery.
@@ -82,3 +85,4 @@ Episode 6 — internal vs external liquidity sequencing
 Episode 7 — equilibrium consolidation behavior
 Episode 9 — accumulation-phase liquidity
 Episode 11 — consolidation liquidity behavior
+Episode 12 — internal liquidity during consolidation
