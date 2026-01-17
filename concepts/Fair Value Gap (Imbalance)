@@ -201,6 +201,12 @@ Fair Value Gaps are used beyond session opens; lack of a setup at the open does 
 An imbalance may only become visible when zooming into lower timeframes, yet still governs delivery.
 (Source: Episode 31)
 
+Small Fair Value Gaps forming inside a choppy dealing range may fail to produce follow-through.
+(Source: Episode 32)
+
+Lack of displacement following an imbalance signals low expectancy conditions.
+(Source: Episode 32)
+
 Implied Conditions (Clearly Inferred)
 
 Fair Value Gaps are algorithmically rebalanced for efficient price delivery.
@@ -252,6 +258,9 @@ Not valid outside time-based context.
 Not required to achieve perfect precision.
 (Source: Episode 29)
 
+The presence of an imbalance alone does not imply a valid setup.
+(Source: Episode 32)
+
 Ambiguities / Conflicts
 
 No explicit rule for minimum size or candle count.
@@ -285,3 +294,4 @@ Episode 27 — FVG usage in counter-trend conditions
 Episode 29 — repeated FVG interaction and proximity logic
 Episode 30 — imbalance used during manipulation phase
 Episode 31 — FVG usage outside opening window
+Episode 32 — FVG unreliability inside chop
