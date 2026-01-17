@@ -61,6 +61,13 @@ trades away impulsively, then
 returns to the imbalance before expanding again.
 (Source: Episode 34)
 
+Imbalance relevance increases when it aligns with:
+
+prior liquidity clearance, and
+
+premium/discount context.
+(Source: Episode 36)
+
 Explicit Rules (From Sources)
 
 Fair Value Gaps are used as entry delivery zones after a break in market structure.
@@ -242,6 +249,12 @@ Partial re-entry into an imbalance is sufficient to maintain validity.
 Imbalances often function as compression zones prior to expansion during news-driven sessions.
 (Source: Episode 35)
 
+Fair Value Gaps formed after a Market Structure Shift act as re-entry zones during retracement.
+(Source: Episode 36)
+
+Price may trade partially into an imbalance before resuming delivery; full rebalancing is not required.
+(Source: Episode 36)
+
 Implied Conditions (Clearly Inferred)
 
 Fair Value Gaps are algorithmically rebalanced for efficient price delivery.
@@ -347,3 +360,4 @@ Episode 32 — FVG unreliability inside chop
 Episode 33 — FVG required after liquidity run, rejection of S/R framing
 Episode 34 — precise imbalance interaction and re-engagement
 Episode 35 — repeated and partial FVG interaction
+Episode 36 — FVG used after MSS and liquidity run
