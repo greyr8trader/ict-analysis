@@ -142,6 +142,12 @@ Price trading into the 50% of an Order Block candle is referred to as the Mean T
 Reaching the Mean Threshold supports continuation toward the next liquidity objective.
 (Source: Episode 35)
 
+An Order Block may appear after consolidation following displacement, and act as a staging area before continuation.
+(Source: Episode 36)
+
+Shallow interaction with an Order Block (wick or partial body) may still be valid.
+(Source: Episode 36)
+
 Implied Conditions (Clearly Inferred)
 
 Order blocks gain significance when aligned with liquidity runs and structure shifts.
@@ -219,3 +225,4 @@ Episode 30 — repeated OB interaction before expansion
 Episode 31 — OB preceding sell-side delivery
 Episode 34 — multi-candle OB refinement and accumulation behavior
 Episode 35 — OB sensitive levels and Mean Threshold clarification
+Episode 36 — OB as consolidation-to-expansion mechanism
