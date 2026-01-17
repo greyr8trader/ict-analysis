@@ -76,6 +76,21 @@ Daily Order Blocks provide directional bias, even when not part of the intraday 
 Price is less likely to trade to the high of a bearish daily Order Block.
 (Source: Episode 21)
 
+Order Blocks must be evaluated by candle bodies, not wick extremes.
+(Source: Episode 22)
+
+Price may wick beyond an Order Block without invalidating it, provided the candle bodies respect the zone.
+(Source: Episode 22)
+
+An Order Block gains validity when aligned with:
+
+Higher-timeframe narrative
+
+Liquidity draw
+
+Associated imbalance
+(Source: Episode 22)
+
 Implied Conditions (Clearly Inferred)
 
 Order blocks gain significance when aligned with liquidity runs and structure shifts.
@@ -111,6 +126,11 @@ Not “last candle before a move” logic.
 Not a guaranteed reversal zone.
 (Source: Episode 21)
 
+Not a single “entry candle”.
+
+Not invalidated by minor wick penetration.
+(Source: Episode 22)
+
 Ambiguities / Conflicts
 
 No explicit minimum candle count defined.
@@ -125,3 +145,4 @@ Episode 13 — order block support behavior
 Episode 14 — OB alignment with FVG
 Episode 18 — Order Block definition correction & constraints
 Episode 21 — daily order block directional context
+Episode 22 — Order Block body-based validation
