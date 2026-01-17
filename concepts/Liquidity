@@ -116,6 +116,15 @@ Relative Equal Highs on the daily timeframe serve as primary draw-on-liquidity l
 Liquidity objectives may be framed days in advance and remain valid until reached or clearly invalidated.
 (Source: Episode 29)
 
+Relative Equal Highs act as pre-identified draw-on-liquidity, even if price initially falls short before reversing.
+(Source: Episode 30)
+
+Buy stops from breakout participation can be triggered and reversed against prior to the real move toward the higher-timeframe liquidity objective.
+(Source: Episode 30)
+
+After sell-side liquidity (e.g., lunch lows) is taken, short positions may be squeezed, accelerating price toward buy-side liquidity.
+(Source: Episode 30)
+
 Implied Conditions (Clearly Inferred)
 
 Liquidity runs often precede reversals when aligned with higher-timeframe bias.
@@ -158,6 +167,11 @@ Counter-trend liquidity draws are not trend reversals by default.
 Liquidity framing is not dependent on intraday volatility or constant participation.
 (Source: Episode 29)
 
+Not resistance/support logic.
+
+Not confirmation of trend continuation at the first touch.
+(Source: Episode 30)
+
 Ambiguities / Conflicts
 
 Speaker rejects auction theory equivalence without formal definition.
@@ -181,3 +195,4 @@ Episode 25 — buy-side first, sell-side second sequencing
 Episode 26 — sell-side taken → buy-side draw sequencing
 Episode 27 — liquidity-driven counter-trend expansion
 Episode 29 — daily relative equal highs as advance liquidity draw
+Episode 30 — sell-side sweep → buy-side squeeze sequencing
