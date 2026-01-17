@@ -64,6 +64,21 @@ Intraday trades must be filtered exclusively in the direction of daily bias unle
 Daily bias is not required to complete its ultimate objective for intraday trades to be valid.
 (Source: Episode 18)
 
+Daily bias is not required every day; bias is framed only when higher-timeframe expansion is likely.
+(Source: Episode 40)
+
+Weekly bias is determined by identifying whether price is gravitating toward:
+
+prior weekly highs,
+
+prior weekly lows, or
+
+higher-timeframe Fair Value Gaps.
+(Source: Episode 40)
+
+The objective is to determine direction of expansion, not to predict the weekly close.
+(Source: Episode 40)
+
 Implied Conditions (Clearly Inferred)
 
 Lower-timeframe setups are filtered by higher-timeframe bias.
@@ -89,6 +104,11 @@ Not multi-timeframe indicators.
 
 Not mechanical timeframe stacking.
 
+Bias is not a daily obligation.
+
+Bias is not a prediction requirement.
+(Source: Episode 40)
+
 Ambiguities / Conflicts
 
 Exact timeframe combinations not rigidly specified.
@@ -105,3 +125,4 @@ Episode 10 — bias stability around news
 Episode 12 — daily chart as parent structure
 Episode 15 — daily bias governing intraday volatility
 Episode 18 — daily bias anchoring intraday model
+Episode 40 — weekly expansion framing governs daily bias selection
