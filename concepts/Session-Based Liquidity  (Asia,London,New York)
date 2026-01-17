@@ -185,6 +185,12 @@ Consolidation days often resolve during the 15:00–16:00 NY window, rather than
 The 3:00–4:00 NY period acts as a delivery window tied to on-close order flow, even in the absence of strong morning trends.
 (Source: Episode 32)
 
+The afternoon (PM) session can complete delivery after morning consolidation, especially on high-volatility days.
+(Source: Episode 33)
+
+The 13:30–16:00 NY window may host the primary expansion once prerequisites are met.
+(Source: Episode 33)
+
 Implied Conditions (Clearly Inferred)
 
 Session liquidity provides predictable intraday targets.
@@ -246,6 +252,9 @@ Asia session is not the primary delivery window for this model.
 Low-volatility days do not invalidate the model.
 (Source: Episode 29)
 
+Morning inactivity does not negate the model.
+(Source: Episode 33)
+
 Ambiguities / Conflicts
 
 Afternoon session logic is acknowledged but excluded from scope.
@@ -281,3 +290,4 @@ Episode 29 — pre-event session behavior
 Episode 30 — lunch-hour sweep preceding afternoon expansion
 Episode 31 — lunch consolidation before continuation
 Episode 32 — consolidation day resolves into the close
+Episode 33 — PM delivery after delayed liquidity run
