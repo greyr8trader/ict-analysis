@@ -207,6 +207,16 @@ On consolidation days, multiple minor swing violations may occur without produci
 A meaningful structure shift often appears only after liquidity inducement late in the session.
 (Source: Episode 32)
 
+A valid bearish shift requires:
+
+a liquidity run below a short-term low, followed by
+
+bearish displacement.
+(Source: Episode 33)
+
+Minor swing breaks inside consolidation do not qualify as a structure shift.
+(Source: Episode 33)
+
 Implied Conditions (Clearly Inferred)
 
 Intraday market structure shifts typically lead to single intraday price legs, not multi-day trends.
@@ -253,6 +263,9 @@ Not every intraday sell-off constitutes a setup.
 (Source: Episode 30)
 
 
+Not every lower low is a Market Structure Shift.
+(Source: Episode 33)
+
 Ambiguities / Conflicts
 
 Exact candle-count definition for swings is not formally quantified.
@@ -291,3 +304,4 @@ Episode 29 — MSS confirmation via failure to expand lower
 Episode 30 — delayed MSS after manipulation
 Episode 31 — swing-based MSS preceding liquidity run
 Episode 32 — delayed MSS on range-bound days
+Episode 33 — MSS requires liquidity + displacement, not consolidation noise
