@@ -19,6 +19,9 @@ The closest opposing liquidity or imbalance should be selected as the primary ta
 Traders should not attempt to capture the full range while learning.
 (Source: 2022 ICT Mentorship — Episode 4)
 
+The model is designed to filter out trades when conditions are not present.
+(Source: Episode 24)
+
 Implied Conditions (Clearly Inferred)
 
 Larger range targets may be left untraded even if later reached.
@@ -41,6 +44,9 @@ Not profit maximization.
 
 Not fixed risk-reward targeting.
 
+Not a guarantee of daily participation.
+(Source: Episode 24)
+
 Ambiguities / Conflicts
 
 No quantitative distance threshold defined.
@@ -50,3 +56,4 @@ Source Log
 
 2022 ICT Mentorship — Episode 4 — target refinement lesson
 Episode 12 — holding trades toward HTF objectives
+Episode 24 — no-trade days as valid outcomes
