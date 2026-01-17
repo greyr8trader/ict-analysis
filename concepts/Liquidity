@@ -98,6 +98,12 @@ Relative equal highs are commonly used as liquidity inducement prior to bearish 
 Sell-side liquidity resting below prior daily lows serves as the offset pool for short positioning.
 (Source: Episode 25)
 
+Sell-side liquidity is considered “taken” when price trades below relative equal lows and does not immediately reclaim them.
+(Source: Episode 26)
+
+After sell-side liquidity is taken, buy-side liquidity above relative highs becomes the next primary draw, even when trading counter to the daily bias.
+(Source: Episode 26)
+
 Implied Conditions (Clearly Inferred)
 
 Liquidity runs often precede reversals when aligned with higher-timeframe bias.
@@ -105,6 +111,9 @@ Liquidity runs often precede reversals when aligned with higher-timeframe bias.
 
 Breaks below relative equal lows often invite breakout participation that provides sell-side liquidity.
 (Source: Episode 22 — CLEAR INFERENCE)
+
+A lack of downside follow-through after sell-side is taken increases the likelihood of reversion toward buy-side liquidity.
+(Source: Episode 26 — CLEAR INFERENCE)
 
 Validity Conditions
 
@@ -151,3 +160,4 @@ Episode 22 — daily relative equal lows as draw on liquidity
 Episode 23 — sweep vs run semantics
 Episode 24 — relative equal highs framing setup context
 Episode 25 — buy-side first, sell-side second sequencing
+Episode 26 — sell-side taken → buy-side draw sequencing
