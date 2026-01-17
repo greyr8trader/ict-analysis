@@ -2,6 +2,7 @@ Market Structure Shift (Intraday)
 Canonical Definition
 
 A Market Structure Shift is an intraday change in directional delivery that occurs after liquidity has been taken, indicated by violation of a previously formed short-term swing high or swing low.
+Market structure is defined by hierarchical swing relationships (short-term, intermediate-term, long-term), where higher-timeframe swings subordinate lower-timeframe price action.
 
 Identification Criteria
 
@@ -23,6 +24,18 @@ Intermediate-term
 Long-term
 based on their relative nesting.
 (Source: Episode 11)
+
+Swings are classified as:
+
+Short-term
+
+Intermediate-term
+
+Long-term
+
+An intermediate-term high or low forms when an imbalance is rebalanced.
+
+Intermediate-term highs/lows should not be violated if the prevailing directional narrative remains valid.
 
 Explicit Rules (From Sources)
 
@@ -71,6 +84,20 @@ Structure analysis requires hierarchical comparison of swings, not simple lower-
 Wick violations without displacement are insufficient for confirming structure change.
 (Source: Episode 11)
 
+A simple higher-high / higher-low model is insufficient for determining structure.
+(Source: Episode 12)
+
+Intermediate-term highs must have:
+
+A lower short-term high to the left
+
+A lower short-term high to the right
+(OR form via imbalance rebalance)
+(Source: Episode 12)
+
+If an intermediate-term high is violated after being formed, the prior directional idea is invalidated.
+(Source: Episode 12)
+
 Implied Conditions (Clearly Inferred)
 
 Intraday market structure shifts typically lead to single intraday price legs, not multi-day trends.
@@ -96,6 +123,9 @@ Invalidation / Failure Conditions
 
 Not explicitly defined in available sources.
 
+Violation of an intermediate-term high (bearish case) or low (bullish case) invalidates the structural premise.
+(Source: Episode 12)
+
 What This Concept Is NOT
 
 Not trendline breaks.
@@ -103,6 +133,7 @@ Not trendline breaks.
 Not indicator-based confirmation.
 
 Not higher-timeframe structural reversal.
+
 
 Ambiguities / Conflicts
 
@@ -122,4 +153,5 @@ Episode 7 — MSS reliability during consolidation
 Episode 6 — displacement vs wick-only clarification
 Episode 8 — multi-timeframe intraday MSS confirmation
 Episode 9 — MSS inside Po3 sequence
+Episode 12 — hierarchical market structure & imbalance-based swing formation
 Episode 11 — swing hierarchy and structure clarification
