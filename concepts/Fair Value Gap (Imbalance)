@@ -100,6 +100,12 @@ Lower-timeframe FVGs must be interpreted within the higher-timeframe narrative.
 Partial fills of an imbalance may be sufficient prior to continuation toward liquidity in FX.
 (Source: Episode 17)
 
+Higher-timeframe imbalances act as parent PD arrays to lower-timeframe imbalances.
+(Source: Episode 18)
+
+Lower-timeframe Fair Value Gaps are only actionable when aligned with the higher-timeframe imbalance narrative.
+(Source: Episode 18)
+
 Implied Conditions (Clearly Inferred)
 
 Fair Value Gaps are algorithmically rebalanced for efficient price delivery.
@@ -134,6 +140,9 @@ Not every gap or inefficiency qualifies as an FVG without displacement.
 Wick-only inefficiencies or slow grind price action do not qualify as Fair Value Gaps.
 (Source: Episode 6)
 
+Not all imbalances are tradeable; context determines relevance.
+(Source: Episode 18)
+
 Ambiguities / Conflicts
 
 No explicit rule for minimum size or candle count.
@@ -155,4 +164,5 @@ Episode 13 — partial FVG rebalancing behavior
 Episode 14 — FVG entry and continuation behavior
 Episode 15 — FVG completion and tolerance clarification
 Episode 16 — HTF vs LTF imbalance alignment
+Episode 18 — HTF → LTF imbalance hierarchy
 Episode 17 — partial FVG behavior in FX
