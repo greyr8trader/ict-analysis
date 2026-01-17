@@ -71,6 +71,13 @@ premium/discount context.
 Fair Value Gaps identified on the daily timeframe remain relevant when transposed to lower timeframes.
 (Source: Episode 37)
 
+A Fair Value Gap is contextualized by:
+
+premium/discount relative to the active dealing range, and
+
+proximity to liquidity pools.
+(Source: Episode 38)
+
 Explicit Rules (From Sources)
 
 Fair Value Gaps are used as entry delivery zones after a break in market structure.
@@ -266,6 +273,21 @@ A Fair Value Gap can act as support during a retracement prior to continuation i
 
 Repeated testing of a Fair Value Gap does not invalidate it, provided displacement continues to respect it.
 (Source: Episode 37)
+Fair Value Gaps can exist simultaneously on multiple timeframes (daily, 15-minute, 5-minute), and lower-timeframe gaps must be interpreted within higher-timeframe gaps.
+(Source: Episode 38)
+
+Price may:
+
+trade into a higher-timeframe Fair Value Gap,
+
+form a lower-timeframe Fair Value Gap inside it, and
+
+use that nested imbalance as the basis for continuation.
+(Source: Episode 38)
+
+Fair Value Gaps do not need to fully rebalance to remain valid.
+(Source: Episode 38)
+
 
 Implied Conditions (Clearly Inferred)
 
@@ -374,3 +396,4 @@ Episode 34 — precise imbalance interaction and re-engagement
 Episode 35 — repeated and partial FVG interaction
 Episode 36 — FVG used after MSS and liquidity run
 Episode 37 — multi-session interaction with HTF FVG
+Episode 38 — nested HTF/LTF FVG interaction
