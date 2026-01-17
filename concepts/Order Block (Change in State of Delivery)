@@ -2,6 +2,7 @@ Order Block (Change in State of Delivery)
 Canonical Definition
 
 An Order Block is the price level marking a change in the state of delivery, identified by the opening price of a sequence of candles whose direction is later violated.
+An order block is a series of consecutive up-closed or down-closed candles formed within valid market structure, representing institutional order flow.
 
 Identification Criteria
 
@@ -14,6 +15,11 @@ Subsequent violation of that opening price.
 Consecutive down-closed candles preceding impulsive expansion define a bullish order block.
 (Source: Episode 9)
 
+Order blocks are not limited to the last candle before displacement.
+
+Multiple consecutive candles may define the valid order block range.
+(Source: Episode 12)
+
 Explicit Rules (From Sources)
 
 An order block is defined by a change in the state of delivery when its originating open is violated.
@@ -24,6 +30,18 @@ Multiple consecutive candles can form a single order block.
 
 Order blocks formed during manipulation can act as entry anchors during distribution.
 (Source: Episode 9)
+
+In bearish conditions:
+
+Up-closed candles act as resistance.
+
+Price should not trade above them if the bearish premise is valid.
+(Source: Episode 12)
+
+In bullish conditions:
+
+Down-closed candles act as support.
+(Source: Episode 12)
 
 Implied Conditions (Clearly Inferred)
 
@@ -44,6 +62,11 @@ Not every down-closed or up-closed candle.
 
 Not supply and demand zones.
 
+Not simply “the last up candle before a drop.”
+
+Not a single-candle concept divorced from structure.
+(Source: Episode 12)
+
 Ambiguities / Conflicts
 
 No explicit minimum candle count defined.
@@ -53,3 +76,4 @@ Source Log
 
 2022 ICT Mentorship — Episode 3 — order block formally defined
 Episode 9 — OB formation and usage inside Po3
+Episode 12 — advanced order block definition & misuse correction
