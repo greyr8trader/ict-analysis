@@ -85,6 +85,16 @@ after an early session price run.
 SMT is used to confirm bias, not to predict direction in isolation.
 (Source: Episode 35)
 
+SMT divergence is most meaningful when observed:
+
+at or near discount pricing, and
+
+during a liquidity sweep on one correlated market that is not confirmed by another.
+(Source: Episode 38)
+
+SMT is used to confirm accumulation or distribution, not to define entries.
+(Source: Episode 38)
+
 Implied Conditions (Clearly Inferred)
 
 Intermarket divergence provides confirmation of an already-established narrative.
@@ -127,6 +137,9 @@ SMT is not constant.
 SMT signals can disappear as markets realign.
 (Source: Episode 35)
 
+SMT is not predictive in isolation.
+(Source: Episode 38)
+
 Ambiguities / Conflicts
 
 Degree and duration of divergence are not quantitatively defined.
@@ -143,3 +156,4 @@ Episode 21 — Dollar Index as risk barometer
 Episode 22 — SMT confirmation via index divergence
 Episode 29 — NASDAQ vs S&P SMT divergence example
 Episode 35 — SMT timing and reliability constraints
+Episode 38 — SMT confirmation during discount-based accumulation
