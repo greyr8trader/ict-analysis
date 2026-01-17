@@ -11,6 +11,15 @@ Daily chart identifies liquidity pools.
 
 Intraday charts provide execution logic.
 
+Daily bias is derived from:
+
+Daily Fair Value Gaps
+
+Recent daily expansion
+
+Draw on daily highs or lows
+(Source: Episode 18)
+
 Explicit Rules (From Sources)
 
 Weekly candle establishes primary bias.
@@ -49,6 +58,12 @@ Trading against the daily narrative increases failure probability.
 Intraday expectations are governed by daily bias, even when short-term volatility obscures immediate direction.
 (Source: Episode 15)
 
+Intraday trades must be filtered exclusively in the direction of daily bias unless clearly invalidated.
+(Source: Episode 18)
+
+Daily bias is not required to complete its ultimate objective for intraday trades to be valid.
+(Source: Episode 18)
+
 Implied Conditions (Clearly Inferred)
 
 Lower-timeframe setups are filtered by higher-timeframe bias.
@@ -60,6 +75,9 @@ Intraday price action should be interpreted through the lens of daily expansion 
 Validity Conditions
 
 Requires alignment across at least two timeframes.
+
+Daily bias remains valid until a clear daily structural invalidation occurs.
+(Source: Episode 18)
 
 Invalidation / Failure Conditions
 
@@ -86,3 +104,4 @@ Episode 8 — HTF bias via currency components
 Episode 10 — bias stability around news
 Episode 12 — daily chart as parent structure
 Episode 15 — daily bias governing intraday volatility
+Episode 18 — daily bias anchoring intraday model
