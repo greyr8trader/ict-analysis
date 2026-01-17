@@ -40,6 +40,12 @@ Confirmation can be obtained by observing correlated indices delivering in the s
 In Forex, intermarket confirmation is achieved by decomposing a pair into base and quote currencies and assessing relative strength/weakness.
 (Source: Episode 17)
 
+Forex pairs must be evaluated against a barometer market (e.g., Dollar Index) to confirm or invalidate apparent breakouts.
+(Source: Episode 20)
+
+Inverted relationships (e.g., USD ↔ EUR) allow one market’s liquidity objective to confirm another market’s reversal.
+(Source: Episode 20)
+
 Implied Conditions (Clearly Inferred)
 
 Intermarket divergence provides confirmation of an already-established narrative.
@@ -50,6 +56,9 @@ Validity Conditions
 Requires at least two correlated markets.
 
 Requires alignment with time-of-day and liquidity context.
+
+Intermarket analysis is most effective when both markets reach opposing liquidity objectives simultaneously.
+(Source: Episode 20)
 
 Invalidation / Failure Conditions
 
@@ -77,3 +86,4 @@ Source Log
 Episode 8 — forex application via currency components
 Episode 14 — ES confirming NQ delivery
 Episode 17 — FX component confirmation
+Episode 20 — Dollar Index vs Euro inversion logic
