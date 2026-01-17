@@ -37,6 +37,13 @@ An intermediate-term high or low forms when an imbalance is rebalanced.
 
 Intermediate-term highs/lows should not be violated if the prevailing directional narrative remains valid.
 
+An intermediate-term low forms when:
+
+A retracement into an imbalance occurs, and
+
+Price subsequently resumes higher without violating that low.
+(Source: Episode 13)
+
 Explicit Rules (From Sources)
 
 A short-term low or high being violated after a liquidity run constitutes a market structure shift.
@@ -98,6 +105,9 @@ A lower short-term high to the right
 If an intermediate-term high is violated after being formed, the prior directional idea is invalidated.
 (Source: Episode 12)
 
+Once an intermediate-term low is formed, it should not be violated before the intended liquidity objective is reached.
+(Source: Episode 13)
+
 Implied Conditions (Clearly Inferred)
 
 Intraday market structure shifts typically lead to single intraday price legs, not multi-day trends.
@@ -155,3 +165,4 @@ Episode 8 — multi-timeframe intraday MSS confirmation
 Episode 9 — MSS inside Po3 sequence
 Episode 12 — hierarchical market structure & imbalance-based swing formation
 Episode 11 — swing hierarchy and structure clarification
+Episode 13 — intermediate-term low behavior during expansion
