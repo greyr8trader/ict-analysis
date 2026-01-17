@@ -2,6 +2,9 @@ Session-Based Liquidity (Asia / London / New York)
 Canonical Definition
 
 Session-Based Liquidity refers to the highs and lows formed during defined trading sessions that act as liquidity pools.
+Session-Based Liquidity describes how liquidity objectives and price delivery can differ between the New York AM session and the New York PM session, allowing for multiple valid setups within a single trading day.
+
+(Refinement justified by extensive explicit discussion in Episode 16)
 
 Identification Criteria
 
@@ -10,6 +13,16 @@ Asia session: ~7 PM – 9 PM New York time.
 London session: ~2 AM – 5 AM New York time.
 
 New York session: ~7 AM – 10 AM New York time.
+
+Identification Criteria (Append)
+
+New York AM session: 08:30–12:00 NY time
+
+New York PM session: 12:00–16:00 NY time
+
+Lunch hour (12:00–13:00) often marks a transition or pause.
+
+(Source: Episode 16)
 
 Explicit Rules (From Sources)
 
@@ -53,6 +66,18 @@ The 09:30 NY equity open frequently produces an initial false move (Judas Swing)
 The 09:30 NY equity open frequently introduces volatility that can briefly violate short-term levels without negating the prevailing narrative.
 (Source: Episode 15)
 
+Multiple valid trade setups may form within the same session and across both AM and PM sessions.
+(Source: Episode 16)
+
+Morning session price action often delivers the primary daily objective.
+(Source: Episode 16)
+
+PM session price action often seeks opposing liquidity, especially on Fridays.
+(Source: Episode 16)
+
+Liquidity objectives differ by session and must not be assumed identical.
+(Source: Episode 16)
+
 Implied Conditions (Clearly Inferred)
 
 Session liquidity provides predictable intraday targets.
@@ -78,6 +103,9 @@ Session-based concepts require strict New York time anchoring to be valid.
 
 All session-based analysis must be anchored to New York local time, regardless of trader location.
 (Source: Episode 8)
+
+Session logic must be evaluated in conjunction with higher-timeframe PD arrays.
+(Source: Episode 16)
 
 Invalidation / Failure Conditions
 
@@ -109,3 +137,4 @@ Episode 10 — session timing + news interaction
 Episode 11 — holiday session behavior
 Episode 13 — equity open behavior
 Episode 15 — equity open volatility behavior
+Episode 16 — multiple setups across AM/PM sessions
