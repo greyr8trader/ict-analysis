@@ -37,6 +37,12 @@ Counter-trend shorts are only considered when price trades at or above equilibri
 The middle of the daily dealing range acts as a natural gravitational target after liquidity is run above or below the range.
 (Source: Episode 32)
 
+Premium and discount are assessed relative to the most recent dealing range, not fixed session extremes.
+(Source: Episode 33)
+
+Failure to reach a visible premium does not invalidate the model if the liquidity objective remains active.
+(Source: Episode 33)
+
 Implied Conditions (Clearly Inferred)
 
 Premium/discount assists in target selection after entry.
@@ -78,3 +84,4 @@ Source Log
 Episode 8 — equilibrium in expansion environments
 Episode 27 — equilibrium as counter-trend filter
 Episode 32 — mid-range gravitation on outside / choppy days
+Episode 33 — equilibrium framed relative to active range
