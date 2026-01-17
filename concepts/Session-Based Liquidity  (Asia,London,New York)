@@ -144,6 +144,12 @@ The ~2:30 NY time window often marks the end of initial volatility leg.
 Time is a required element; price patterns without time alignment are incomplete.
 (Source: Episode 24)
 
+New York time governs algorithmic behavior, beginning at 00:00 NY time.
+(Source: Episode 25)
+
+08:30 NY and 09:30 NY act as primary session catalysts for intraday delivery.
+(Source: Episode 25)
+
 Implied Conditions (Clearly Inferred)
 
 Session liquidity provides predictable intraday targets.
@@ -186,6 +192,9 @@ Not market open strategies.
 
 Not volatility-based time filters.
 
+Asia session is not the primary delivery window for this model.
+(Source: Episode 25)
+
 Ambiguities / Conflicts
 
 Afternoon session logic is acknowledged but excluded from scope.
@@ -214,3 +223,4 @@ Episode 21 — opening price hierarchy (midnight vs 08:30)
 Episode 22 — NY session opening price behavior
 Episode 23 — FOMC session sequencing
 Episode 24 — time as an algorithmic element
+Episode 25 — NY-centric algorithm timing
