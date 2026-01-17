@@ -28,6 +28,19 @@ Price often builds up or drops immediately before a scheduled report, with the r
 Not all scheduled events are heavy hitters, but most materially affect stock indices.
 (Source: Episode 10)
 
+High-impact and medium-impact economic news determine which markets are tradable on a given day.
+(Source: Episode 40)
+
+Markets without a calendar catalyst often exhibit:
+
+low range, or
+
+unreliable setups.
+(Source: Episode 40)
+
+Trading focus should be restricted to markets with scheduled volatility, not all instruments.
+(Source: Episode 40)
+
 Implied Conditions (Clearly Inferred)
 
 Volatility expansion following news is often aligned with pre-existing daily bias.
@@ -44,6 +57,13 @@ A scheduled event exists.
 
 The trader is operating during affected sessions (London / New York).
 
+Intraday setups are favored when:
+
+HTF bias exists, and
+
+a calendar catalyst aligns with Kill Zones.
+(Source: Episode 40)
+
 Invalidation / Failure Conditions
 
 Not explicitly defined in available sources.
@@ -56,6 +76,11 @@ Not predictive of bullish or bearish direction by itself.
 
 Not a reason to trade solely based on news data.
 
+News is not traded directionally by fundamentals.
+
+News is used only as a timing catalyst.
+(Source: Episode 40)
+
 Ambiguities / Conflicts
 
 No quantitative volatility thresholds are defined for “high impact.”
@@ -64,3 +89,4 @@ No quantitative volatility thresholds are defined for “high impact.”
 Source Log
 
 2022 ICT Mentorship — Episode 10 — economic calendar usage and news embargo behavior
+Episode 40 — calendar-driven market selection
