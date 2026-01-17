@@ -203,6 +203,21 @@ Relative Equal Lows may be taken repeatedly without follow-through, indicating a
 Previous Day’s High functions as a valid buy-side liquidity objective when price remains within a higher-timeframe Fair Value Gap.
 (Source: Episode 38)
 
+Liquidity objectives must be identified before the session opens, not retroactively.
+(Source: Episode 39)
+
+Multiple successive sell-side runs without displacement away indicate absorption, increasing likelihood of a buy-side run.
+(Source: Episode 39)
+
+Liquidity pools exist at:
+
+Relative equal highs/lows
+
+Prior session highs/lows
+
+Big figures (e.g., 4100)
+(Source: Episode 39)
+
 Implied Conditions (Clearly Inferred)
 
 Liquidity runs often precede reversals when aligned with higher-timeframe bias.
@@ -217,6 +232,9 @@ A lack of downside follow-through after sell-side is taken increases the likelih
 Validity Conditions
 
 Most relevant when price is consolidating or approaching prior highs/lows.
+
+Liquidity targeting is valid only when aligned with time-of-day expectations.
+(Source: Episode 39)
 
 Invalidation / Failure Conditions
 
@@ -286,6 +304,11 @@ Liquidity objectives are not predictions.
 Failure to reach an objective is not a signal by itself.
 (Source: Episode 38)
 
+Liquidity is not volume-based.
+
+Liquidity is not inferred from order book data.
+(Source: Episode 39)
+
 Ambiguities / Conflicts
 
 Speaker rejects auction theory equivalence without formal definition.
@@ -318,3 +341,4 @@ Episode 35 — staged liquidity delivery behavior
 Episode 36 — staged sell-side clearance before buy-side run
 Episode 37 — staged buy-side liquidity objectives (short-term → relative equal highs)
 Episode 38 — failed sell-side objective → reassessment toward buy-side liquidity
+Episode 39 — repeated sell-side runs and absorption behavior
