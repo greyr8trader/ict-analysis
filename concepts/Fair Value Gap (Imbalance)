@@ -313,6 +313,19 @@ Overlapping Fair Value Gaps with equilibrium are lower-priority arrays.
 Fair Value Gaps function as price delivery mechanisms, not entry guarantees.
 (Source: Episode 40)
 
+When multiple Fair Value Gaps exist, larger-timeframe gaps take precedence over smaller ones.
+(Source: Episode 41)
+
+Price may:
+
+overrun a smaller Fair Value Gap
+
+to rebalance into a larger Fair Value Gap beyond it.
+(Source: Episode 41)
+
+A Fair Value Gap remains valid when price closes inside it and later re-expands.
+(Source: Episode 41)
+
 
 Implied Conditions (Clearly Inferred)
 
@@ -387,6 +400,9 @@ FVGs are not entry signals by themselves.
 FVGs do not require full rebalancing.
 (Source: Episode 40)
 
+Smaller Fair Value Gaps are not always defended.
+(Source: Episode 41)
+
 Ambiguities / Conflicts
 
 No explicit rule for minimum size or candle count.
@@ -429,3 +445,4 @@ Episode 37 — multi-session interaction with HTF FVG
 Episode 38 — nested HTF/LTF FVG interaction
 Episode 39 — HTF FVG as afternoon draw
 Episode 40 — FVG hierarchy and discount context
+Episode 41 — HTF FVG priority and overrun behavior
