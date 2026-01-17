@@ -164,6 +164,18 @@ alignment with time-of-day narrative.
 Order Blocks that fail to reject price after liquidity is taken are considered weak.
 (Source: Episode 39)
 
+Order Blocks derive relevance when aligned with:
+
+HTF bias,
+
+liquidity objectives, and
+
+time-of-day expectations.
+(Source: Episode 40)
+
+Down-closed candles preceding displacement define valid bearish Order Blocks; up-closed candles define bullish ones.
+(Source: Episode 40)
+
 Implied Conditions (Clearly Inferred)
 
 Order blocks gain significance when aligned with liquidity runs and structure shifts.
@@ -244,3 +256,4 @@ Episode 35 — OB sensitive levels and Mean Threshold clarification
 Episode 36 — OB as consolidation-to-expansion mechanism
 Episode 37 — OB aligned with FVG and continuation
 Episode 39 — OB failure after multiple sell-side runs
+Episode 40 — OB alignment rules within the model
