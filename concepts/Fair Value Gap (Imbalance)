@@ -38,6 +38,9 @@ The Fair Value Gap is measured from the displacement leg, not from arbitrary can
 FVG relevance is assessed relative to the most recent liquidity event (sell-side or buy-side taken).
 (Source: Episode 26)
 
+“Close proximity” interaction with an imbalance is acceptable when price does not fully rebalance the gap.
+(Source: Episode 29)
+
 Explicit Rules (From Sources)
 
 Fair Value Gaps are used as entry delivery zones after a break in market structure.
@@ -170,6 +173,12 @@ Discount / Premium location.
 Counter-trend FVGs are treated as short-term retracement opportunities, not directional bias changes.
 (Source: Episode 27)
 
+A Fair Value Gap is only actionable after a valid Market Structure Shift.
+(Source: Episode 29)
+
+Multiple candles may provide repeated opportunities within or near a Fair Value Gap.
+(Source: Episode 29)
+
 Implied Conditions (Clearly Inferred)
 
 Fair Value Gaps are algorithmically rebalanced for efficient price delivery.
@@ -218,6 +227,9 @@ Not every imbalance is tradable.
 Not valid outside time-based context.
 (Source: Episode 25)
 
+Not required to achieve perfect precision.
+(Source: Episode 29)
+
 Ambiguities / Conflicts
 
 No explicit rule for minimum size or candle count.
@@ -248,3 +260,4 @@ Episode 24 — FVG as conditional setup location
 Episode 25 — FVG as centerpiece of the model
 Episode 26 — FVG used after liquidity raid
 Episode 27 — FVG usage in counter-trend conditions
+Episode 29 — repeated FVG interaction and proximity logic
