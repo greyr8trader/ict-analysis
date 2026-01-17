@@ -35,6 +35,9 @@ Imbalance relevance is evaluated by body interaction, not wick extremes, during 
 The Fair Value Gap is measured from the displacement leg, not from arbitrary candles.
 (Source: Episode 24)
 
+FVG relevance is assessed relative to the most recent liquidity event (sell-side or buy-side taken).
+(Source: Episode 26)
+
 Explicit Rules (From Sources)
 
 Fair Value Gaps are used as entry delivery zones after a break in market structure.
@@ -151,6 +154,12 @@ The Fair Value Gap is the primary focal point of the simplified model taught in 
 FVGs are evaluated only after displacement and within the correct time window.
 (Source: Episode 25)
 
+Re-entry back into a Fair Value Gap after a liquidity run supports continuation toward opposing liquidity, not immediate reversal.
+(Source: Episode 26)
+
+Interaction with an FVG can be brief and partial; full rebalancing is not required.
+(Source: Episode 26)
+
 Implied Conditions (Clearly Inferred)
 
 Fair Value Gaps are algorithmically rebalanced for efficient price delivery.
@@ -227,3 +236,4 @@ Episode 22 — imbalance tolerance and body priority
 Episode 23 — imbalance behavior under volatility
 Episode 24 — FVG as conditional setup location
 Episode 25 — FVG as centerpiece of the model
+Episode 26 — FVG used after liquidity raid
