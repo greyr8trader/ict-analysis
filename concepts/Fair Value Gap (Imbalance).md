@@ -73,6 +73,12 @@ Price often returns to rebalance an imbalance before continuing toward liquidity
 Imbalances exist across all timeframes and form fractal relationships.
 (Source: Episode 12)
 
+Price does not always fully rebalance a Fair Value Gap before continuing toward its liquidity objective.
+(Source: Episode 13)
+
+Shallow retracements into an FVG can be sufficient for continuation.
+(Source: Episode 13)
+
 Implied Conditions (Clearly Inferred)
 
 Fair Value Gaps are algorithmically rebalanced for efficient price delivery.
@@ -121,3 +127,4 @@ Episode 9 — FVG role inside Power of Three
 Episode 10 — news-induced imbalance creation
 Episode 11 — FVG precision usage
 Episode 12 — imbalance → structure relationship
+Episode 13 — partial FVG rebalancing behavior
