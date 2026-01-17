@@ -26,6 +26,9 @@ The gap exists between the prior candle’s high and the subsequent candle’s l
 Fair Value Gaps may be identified on lower timeframes (5m–1m) within a higher-timeframe price leg.
 (Source: Episode 8)
 
+An imbalance may coexist with a price gap, reinforcing inefficiency.
+(Source: Episode 22)
+
 Explicit Rules (From Sources)
 
 Fair Value Gaps are used as entry delivery zones after a break in market structure.
@@ -118,6 +121,12 @@ A Fair Value Gap is not actionable until price has clearly displaced away from i
 Immediate re-entry into an imbalance without displacement does not qualify as valid delivery.
 (Source: Episode 20)
 
+Multiple candles may trade inside an imbalance without invalidating it, provided the bodies remain within the gap.
+(Source: Episode 22)
+
+Wicks probing beyond an imbalance boundary are permissible price action.
+(Source: Episode 22)
+
 Implied Conditions (Clearly Inferred)
 
 Fair Value Gaps are algorithmically rebalanced for efficient price delivery.
@@ -179,3 +188,4 @@ Episode 16 — HTF vs LTF imbalance alignment
 Episode 18 — HTF → LTF imbalance hierarchy
 Episode 17 — partial FVG behavior in FX
 Episode 20 — displacement requirement for FVG validity
+Episode 22 — imbalance tolerance and body priority
