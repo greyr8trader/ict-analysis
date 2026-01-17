@@ -115,6 +115,18 @@ A bearish Order Block can form immediately before displacement toward sell-side 
 Order Blocks may be overshot during high volatility without invalidation.
 (Source: Episode 31)
 
+Order Blocks may form as multi-candle structures and be refined on lower timeframes (e.g., 5-minute).
+(Source: Episode 34)
+
+Price may:
+
+trade into an Order Block,
+
+consolidate, and
+
+re-accumulate before continuation.
+(Source: Episode 34)
+
 Implied Conditions (Clearly Inferred)
 
 Order blocks gain significance when aligned with liquidity runs and structure shifts.
@@ -161,6 +173,11 @@ Not invalidated by minor wick penetration during news-driven volatility.
 Not required to trade into the deepest portion of the Order Block to be valid.
 (Source: Episode 26)
 
+Order Blocks are not single-candle patterns by necessity.
+
+Deep penetration is not required for validity.
+(Source: Episode 34)
+
 Ambiguities / Conflicts
 
 No explicit minimum candle count defined.
@@ -180,3 +197,4 @@ Episode 23 — OB body vs wick clarification (volatility context)
 Episode 26 — multi-candle OB definition and shallow interaction
 Episode 30 — repeated OB interaction before expansion
 Episode 31 — OB preceding sell-side delivery
+Episode 34 — multi-candle OB refinement and accumulation behavior
