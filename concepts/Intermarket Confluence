@@ -2,6 +2,7 @@ Intermarket Confluence (Index Correlation Framework)
 Canonical Definition
 
 Intermarket Confluence describes the use of correlated markets (e.g., NASDAQ, S&P, Dow) to confirm or invalidate anticipated price delivery through relative strength, weakness, or non-confirmation at key liquidity levels.
+Intermarket Confluence describes how correlated or inversely correlated markets (e.g., Dollar Index vs FX pairs or equity indices) provide confirmation or invalidation of directional bias.
 
 Identification Criteria
 
@@ -46,6 +47,18 @@ Forex pairs must be evaluated against a barometer market (e.g., Dollar Index) to
 Inverted relationships (e.g., USD ↔ EUR) allow one market’s liquidity objective to confirm another market’s reversal.
 (Source: Episode 20)
 
+Rising Dollar Index reflects risk-off conditions, generally pressuring risk assets lower.
+(Source: Episode 21)
+
+Declining Dollar Index reflects risk-on conditions, generally supporting risk assets.
+(Source: Episode 21)
+
+Forex pairs should be evaluated relative to Dollar Index direction for sustained moves.
+(Source: Episode 21)
+
+Equity indices often move inversely to the Dollar Index during risk-off phases.
+(Source: Episode 21)
+
 Implied Conditions (Clearly Inferred)
 
 Intermarket divergence provides confirmation of an already-established narrative.
@@ -59,6 +72,9 @@ Requires alignment with time-of-day and liquidity context.
 
 Intermarket analysis is most effective when both markets reach opposing liquidity objectives simultaneously.
 (Source: Episode 20)
+
+Intermarket signals are strongest when both markets reach or react from liquidity objectives concurrently.
+(Source: Episode 21)
 
 Invalidation / Failure Conditions
 
@@ -87,3 +103,4 @@ Episode 8 — forex application via currency components
 Episode 14 — ES confirming NQ delivery
 Episode 17 — FX component confirmation
 Episode 20 — Dollar Index vs Euro inversion logic
+Episode 21 — Dollar Index as risk barometer
