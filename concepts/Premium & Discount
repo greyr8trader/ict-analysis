@@ -34,6 +34,9 @@ Counter-trend longs are only considered when price trades at or below equilibriu
 Counter-trend shorts are only considered when price trades at or above equilibrium (premium).
 (Source: Episode 27)
 
+The middle of the daily dealing range acts as a natural gravitational target after liquidity is run above or below the range.
+(Source: Episode 32)
+
 Implied Conditions (Clearly Inferred)
 
 Premium/discount assists in target selection after entry.
@@ -59,6 +62,9 @@ Not valuation analysis.
 Not justification for trading mid-range.
 (Source: Episode 27)
 
+Mid-range is not a random target; it is a mean-reversion objective on consolidation days.
+(Source: Episode 32)
+
 Ambiguities / Conflicts
 
 Range selection hierarchy not formally defined.
@@ -71,3 +77,4 @@ Source Log
 2022 ICT Mentorship — Episode 4 — equilibrium usage refined
 Episode 8 — equilibrium in expansion environments
 Episode 27 — equilibrium as counter-trend filter
+Episode 32 — mid-range gravitation on outside / choppy days
