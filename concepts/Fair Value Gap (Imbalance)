@@ -145,6 +145,12 @@ Fair Value Gaps are only considered after a valid Market Structure Shift.
 An imbalance defines the area where a setup may form, not a guaranteed trade.
 (Source: Episode 24)
 
+The Fair Value Gap is the primary focal point of the simplified model taught in the mentorship.
+(Source: Episode 25)
+
+FVGs are evaluated only after displacement and within the correct time window.
+(Source: Episode 25)
+
 Implied Conditions (Clearly Inferred)
 
 Fair Value Gaps are algorithmically rebalanced for efficient price delivery.
@@ -162,6 +168,9 @@ Occurs most frequently on lower timeframes (1m–3m) in indices.
 
 Fair Value Gaps are evaluated relative to the current defined range and its equilibrium.
 (Source: 2022 ICT Mentorship — Episode 4)
+
+An imbalance must form after a liquidity run and in alignment with directional bias.
+(Source: Episode 25)
 
 Invalidation / Failure Conditions
 
@@ -184,6 +193,11 @@ Not all imbalances are tradeable; context determines relevance.
 
 Not every Fair Value Gap is tradable.
 (Source: Episode 24)
+
+Not every imbalance is tradable.
+
+Not valid outside time-based context.
+(Source: Episode 25)
 
 Ambiguities / Conflicts
 
@@ -212,3 +226,4 @@ Episode 20 — displacement requirement for FVG validity
 Episode 22 — imbalance tolerance and body priority
 Episode 23 — imbalance behavior under volatility
 Episode 24 — FVG as conditional setup location
+Episode 25 — FVG as centerpiece of the model
