@@ -97,6 +97,9 @@ Higher-timeframe Fair Value Gaps provide context, even when lower-timeframe imba
 Lower-timeframe FVGs must be interpreted within the higher-timeframe narrative.
 (Source: Episode 16)
 
+Partial fills of an imbalance may be sufficient prior to continuation toward liquidity in FX.
+(Source: Episode 17)
+
 Implied Conditions (Clearly Inferred)
 
 Fair Value Gaps are algorithmically rebalanced for efficient price delivery.
@@ -152,3 +155,4 @@ Episode 13 — partial FVG rebalancing behavior
 Episode 14 — FVG entry and continuation behavior
 Episode 15 — FVG completion and tolerance clarification
 Episode 16 — HTF vs LTF imbalance alignment
+Episode 17 — partial FVG behavior in FX
