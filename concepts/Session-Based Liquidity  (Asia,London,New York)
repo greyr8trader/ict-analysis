@@ -230,6 +230,18 @@ a lunchtime retracement into Fair Value Gap territory.
 PM session (post–1:30 PM) is the primary delivery window on large-range days.
 (Source: Episode 39)
 
+Valid intraday delivery windows are:
+
+08:30–11:00 NY (AM session), and
+
+13:30–16:00 NY (PM session).
+(Source: Episode 40)
+
+London Close (10:00–11:00 NY) frequently marks:
+
+opposing end of the daily range.
+(Source: Episode 40)
+
 Implied Conditions (Clearly Inferred)
 
 Session liquidity provides predictable intraday targets.
@@ -318,6 +330,11 @@ Morning inactivity does not negate the model.
 Failure to deliver in the morning session does not invalidate the daily bias.
 (Source: Episode 37)
 
+Not every session will produce a setup.
+
+Absence of delivery is not a failure of the model.
+(Source: Episode 40)
+
 Ambiguities / Conflicts
 
 Afternoon session logic is acknowledged but excluded from scope.
@@ -359,3 +376,4 @@ Episode 36 — delayed NY delivery after false starts
 Episode 37 — NY midnight open and lunch-hour behavior
 Episode 38 — lunch-hour retracement → PM delivery
 Episode 39 — lunch-hour stop runs → PM expansion
+Episode 40 — Kill Zones and London Close behavior
