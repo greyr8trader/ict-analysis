@@ -103,6 +103,12 @@ A bullish Order Block may be defined by two consecutive down-closed candles, wit
 Price may touch only the wick of the referenced Order Block candle and still respect it.
 (Source: Episode 26)
 
+An Order Block may be revisited multiple times before continuation toward the liquidity objective.
+(Source: Episode 30)
+
+Shallow interaction with an Order Block (wick or partial body) can still be valid prior to delivery.
+(Source: Episode 30)
+
 Implied Conditions (Clearly Inferred)
 
 Order blocks gain significance when aligned with liquidity runs and structure shifts.
@@ -166,3 +172,4 @@ Episode 21 — daily order block directional context
 Episode 22 — Order Block body-based validation
 Episode 23 — OB body vs wick clarification (volatility context)
 Episode 26 — multi-candle OB definition and shallow interaction
+Episode 30 — repeated OB interaction before expansion
