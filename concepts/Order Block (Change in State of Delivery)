@@ -97,6 +97,12 @@ Order Block validity is determined by candle bodies respecting the zone, even if
 A bearish Order Block may be revisited and respected before continuation in the direction of the prevailing narrative.
 (Source: Episode 23)
 
+A bullish Order Block may be defined by two consecutive down-closed candles, with the upper candle’s open/body acting as the primary reference.
+(Source: Episode 26)
+
+Price may touch only the wick of the referenced Order Block candle and still respect it.
+(Source: Episode 26)
+
 Implied Conditions (Clearly Inferred)
 
 Order blocks gain significance when aligned with liquidity runs and structure shifts.
@@ -140,6 +146,9 @@ Not invalidated by minor wick penetration.
 Not invalidated by minor wick penetration during news-driven volatility.
 (Source: Episode 23)
 
+Not required to trade into the deepest portion of the Order Block to be valid.
+(Source: Episode 26)
+
 Ambiguities / Conflicts
 
 No explicit minimum candle count defined.
@@ -156,3 +165,4 @@ Episode 18 — Order Block definition correction & constraints
 Episode 21 — daily order block directional context
 Episode 22 — Order Block body-based validation
 Episode 23 — OB body vs wick clarification (volatility context)
+Episode 26 — multi-candle OB definition and shallow interaction
