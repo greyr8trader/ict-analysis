@@ -165,6 +165,15 @@ Displacement that takes out a short-term swing low (bearish case) or high (bulli
 A simple move above or below a level does NOT qualify as a structure shift.
 (Source: Episode 24)
 
+Market Structure Shift is confirmed by:
+
+Liquidity run →
+
+Displacement →
+
+Subsequent imbalance
+(Source: Episode 25)
+
 Implied Conditions (Clearly Inferred)
 
 Intraday market structure shifts typically lead to single intraday price legs, not multi-day trends.
@@ -195,6 +204,9 @@ Violation of an intermediate-term high (bearish case) or low (bullish case) inva
 
 If displacement does not occur after a liquidity run, no setup exists.
 (Source: Episode 24)
+
+Without displacement, no structure shift exists, regardless of swing violations.
+(Source: Episode 25)
 
 What This Concept Is NOT
 
@@ -236,3 +248,4 @@ Episode 21 — MSS relative to opening price
 Episode 22 — hierarchy of structure via imbalance
 Episode 23 — MSS timing around volatility events
 Episode 24 — MSS trigger definition and filtering logic
+Episode 25 — MSS dependency chain clarified
