@@ -3,6 +3,11 @@ Canonical Definition
 
 A Fair Value Gap is a price imbalance created when a single candle moves without overlap between the previous candle’s high and the next candle’s low.
 
+A single impulsive candle creating inefficiency qualifies as an imbalance.
+
+Rebalancing that inefficiency creates an intermediate-term swing point.
+(Source: Episode 12)
+
 Identification Criteria
 
 One-directional candle.
@@ -62,6 +67,12 @@ Liquidity draw
 Entry into an FVG does not require price to reach the extreme of the range.
 (Source: Episode 11)
 
+Price often returns to rebalance an imbalance before continuing toward liquidity.
+(Source: Episode 12)
+
+Imbalances exist across all timeframes and form fractal relationships.
+(Source: Episode 12)
+
 Implied Conditions (Clearly Inferred)
 
 Fair Value Gaps are algorithmically rebalanced for efficient price delivery.
@@ -109,3 +120,4 @@ Episode 8 — LTF FVG alignment rules
 Episode 9 — FVG role inside Power of Three
 Episode 10 — news-induced imbalance creation
 Episode 11 — FVG precision usage
+Episode 12 — imbalance → structure relationship
