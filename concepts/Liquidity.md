@@ -22,6 +22,9 @@ Buy stops rest above old highs; sell stops rest below old lows.
 Liquidity is engineered before large directional moves.
 (Source: 2022 ICT Mentorship — Episode 2)
 
+Sell-side liquidity below prior daily lows remains a valid draw even after extended consolidation.
+(Source: Episode 11)
+
 Implied Conditions (Clearly Inferred)
 
 Liquidity runs often precede reversals when aligned with higher-timeframe bias.
@@ -49,3 +52,4 @@ Speaker rejects auction theory equivalence without formal definition.
 Source Log
 
 2022 ICT Mentorship — Episode 2 — introduction of liquidity draw logic
+Episode 11 — persistence of liquidity draw
