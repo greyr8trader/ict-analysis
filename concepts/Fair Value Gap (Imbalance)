@@ -233,6 +233,15 @@ act as supportive price zones during accumulation prior to expansion.
 Price may return to the exact level of a prior imbalance (high or low) with high precision before continuing.
 (Source: Episode 34)
 
+A Fair Value Gap may be revisited multiple times during accumulation before expansion.
+(Source: Episode 35)
+
+Partial re-entry into an imbalance is sufficient to maintain validity.
+(Source: Episode 35)
+
+Imbalances often function as compression zones prior to expansion during news-driven sessions.
+(Source: Episode 35)
+
 Implied Conditions (Clearly Inferred)
 
 Fair Value Gaps are algorithmically rebalanced for efficient price delivery.
@@ -296,6 +305,10 @@ Not all imbalances require full rebalancing.
 
 Not every imbalance implies immediate continuation.
 (Source: Episode 34)
+Imbalances are not guaranteed turning points.
+
+Full rebalancing is not required.
+(Source: Episode 35)
 
 Ambiguities / Conflicts
 
@@ -333,3 +346,4 @@ Episode 31 — FVG usage outside opening window
 Episode 32 — FVG unreliability inside chop
 Episode 33 — FVG required after liquidity run, rejection of S/R framing
 Episode 34 — precise imbalance interaction and re-engagement
+Episode 35 — repeated and partial FVG interaction
