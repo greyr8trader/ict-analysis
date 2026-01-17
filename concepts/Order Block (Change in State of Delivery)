@@ -70,6 +70,12 @@ OB is a reference bookmark, not a supply/demand zone.
 
 (Source: Episode 19)
 
+Daily Order Blocks provide directional bias, even when not part of the intraday entry model.
+(Source: Episode 21)
+
+Price is less likely to trade to the high of a bearish daily Order Block.
+(Source: Episode 21)
+
 Implied Conditions (Clearly Inferred)
 
 Order blocks gain significance when aligned with liquidity runs and structure shifts.
@@ -102,6 +108,9 @@ Not supply & demand zones.
 Not “last candle before a move” logic.
 (Source: Episode 18)
 
+Not a guaranteed reversal zone.
+(Source: Episode 21)
+
 Ambiguities / Conflicts
 
 No explicit minimum candle count defined.
@@ -115,3 +124,4 @@ Episode 12 — advanced order block definition & misuse correction
 Episode 13 — order block support behavior
 Episode 14 — OB alignment with FVG
 Episode 18 — Order Block definition correction & constraints
+Episode 21 — daily order block directional context
