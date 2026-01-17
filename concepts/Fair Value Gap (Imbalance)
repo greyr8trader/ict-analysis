@@ -32,6 +32,9 @@ An imbalance may coexist with a price gap, reinforcing inefficiency.
 Imbalance relevance is evaluated by body interaction, not wick extremes, during volatility.
 (Source: Episode 23)
 
+The Fair Value Gap is measured from the displacement leg, not from arbitrary candles.
+(Source: Episode 24)
+
 Explicit Rules (From Sources)
 
 Fair Value Gaps are used as entry delivery zones after a break in market structure.
@@ -136,6 +139,12 @@ During high-volatility events (e.g., FOMC), price may dip slightly beyond an imb
 An imbalance can act as a staging area prior to continuation toward a higher-timeframe liquidity objective.
 (Source: Episode 23)
 
+Fair Value Gaps are only considered after a valid Market Structure Shift.
+(Source: Episode 24)
+
+An imbalance defines the area where a setup may form, not a guaranteed trade.
+(Source: Episode 24)
+
 Implied Conditions (Clearly Inferred)
 
 Fair Value Gaps are algorithmically rebalanced for efficient price delivery.
@@ -173,6 +182,9 @@ Wick-only inefficiencies or slow grind price action do not qualify as Fair Value
 Not all imbalances are tradeable; context determines relevance.
 (Source: Episode 18)
 
+Not every Fair Value Gap is tradable.
+(Source: Episode 24)
+
 Ambiguities / Conflicts
 
 No explicit rule for minimum size or candle count.
@@ -199,3 +211,4 @@ Episode 17 — partial FVG behavior in FX
 Episode 20 — displacement requirement for FVG validity
 Episode 22 — imbalance tolerance and body priority
 Episode 23 — imbalance behavior under volatility
+Episode 24 — FVG as conditional setup location
