@@ -24,7 +24,7 @@ DST handling:
 2) BAR WINDOWS (HARD RULE)
 ────────────────────────────────────────
 Minimum required bar counts:
-- Daily (D1): 30 bars
+- Daily (D): 30 bars
 - H1: 100 bars
 - M15: 200 bars
 - M5: 300 bars
@@ -95,7 +95,7 @@ Validation rules:
   "timezone": "America/New_York",
   "asOf": "YYYY-MM-DDTHH:mm",
   "bars": {
-    "D1":  [Bar x 30],
+    "D":  [Bar x 30],
     "H1":  [Bar x 100],
     "M15": [Bar x 200],
     "M5":  [Bar x 300]
@@ -110,7 +110,7 @@ Notes:
 7) DATA QUALITY RULES (FAIL FAST)
 ────────────────────────────────────────
 Return INVALID_INPUT if:
-- Any timeframe array is missing (D1/H1/M15/M5)
+- Any timeframe array is missing (D/H1/M15/M5)
 - Any timeframe has fewer than required bars
 - Bars not ordered oldest → newest
 - Any OHLC invalid relationship
