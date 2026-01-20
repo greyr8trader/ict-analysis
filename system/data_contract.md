@@ -53,15 +53,15 @@ Session rule:
 ────────────────────────────────────────
 4) SYMBOL SOURCE + NORMALIZATION
 ────────────────────────────────────────
-- The input sheet includes a column named: NAS100
+- The input sheet includes a column named: NQ1!
 - This column name is the canonical symbol for the analysis run.
 
 Hard rules:
-- The system MUST set symbol = "NAS100" when using the NAS100 column.
+- The system MUST set symbol = "NQ1!" when using the NQ1! column.
 - If the column name is missing or not recognized → INVALID_INPUT.
 
 (Optional mapping, only if you add more columns later)
-- US100/USTEC/NAS → NAS100
+- US100/USTEC/NAS → NQ1!
 
 ────────────────────────────────────────
 5) OHLC BAR SCHEMA (REQUIRED FIELDS)
@@ -83,7 +83,7 @@ Validation rules:
 6) PAYLOAD SHAPE (RECOMMENDED)
 ────────────────────────────────────────
 {
-  "symbol": "NAS100",
+  "symbol": "NQ1!",
   "timezone": "America/New_York",
   "asOf": "YYYY-MM-DDTHH:mm",
   "bars": {
